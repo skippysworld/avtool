@@ -6,7 +6,7 @@
 	--text-light: 100;
 	--text-regular: 400;
 	--text-bold: 700;
-	--header-height: 8em;
+	--header-height: 10em;
 }
 
 html {
@@ -34,7 +34,7 @@ header {
 }
 
 main {
-	margin-top: calc(var(--header-height) + 2em);
+	margin-top: calc(var(--header-height));
 }
 
 h2 {
