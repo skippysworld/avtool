@@ -87,11 +87,7 @@ p.abbrCZ {
 		margin-top: var(--header-height);
 	}
 
-	ul {
-		width: 100vw;
-		padding-inline: 2em;
-	}
-
+	ul,
 	form {
 		width: 100vw;
 		padding-inline: 2em;
