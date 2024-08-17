@@ -22,8 +22,8 @@ const render = (query = "") => {
 			return item;
 		}
 	});
-	abbrResults.innerHTML = "";
 
+	abbrResults.innerHTML = "";
 	filtered.forEach((item) => {
 		abbrResults.insertAdjacentHTML(
 			"beforeend",
