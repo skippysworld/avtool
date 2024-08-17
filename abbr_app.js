@@ -28,7 +28,7 @@ const render = (query = "") => {
 		abbrResults.insertAdjacentHTML(
 			"beforeend",
 			`<li>
-                <p class="abbrKey">${item.abbr}</p>
+                <h2 class="abbrKey">${item.abbr}</h2>
                 <p class="abbrEN">${item.en}</p>
                 <p class="abbrCZ">${item.cz}</p>
             </li>`
