@@ -36,7 +36,8 @@ form {
 }
 
 input[type="search"] {
-	max-width: 30em;
+	all: unset;
+	min-width: 20em;
 	padding: 1em;
 	font-size: 1em;
 	border: solid 2px;
