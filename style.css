@@ -3,7 +3,6 @@
 :root {
 	--color-background: #fafafa;
 	--color-border: #000;
-	--color-hover: #fff;
 	--text-light: 100;
 	--text-regular: 400;
 	--text-bold: 700;
@@ -76,7 +75,7 @@ li {
 }
 
 p.abbrCZ {
-	opacity: 0.3;
+	color: rgba(0, 0, 0, 0.3);
 }
 
 @media (max-width: 36rem) {
