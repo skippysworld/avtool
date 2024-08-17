@@ -1,0 +1,4854 @@
+{
+	"data": [
+		{
+			"abbr": "A",
+			"cz": "Jantarová barva",
+			"en": "Amber"
+		},
+		{
+			"abbr": "A/A",
+			"cz": "Vzduch − vzduch",
+			"en": "Air-to-air"
+		},
+		{
+			"abbr": "AAL",
+			"cz": "Nad úrovní letiště",
+			"en": "Above aerodrome level"
+		},
+		{
+			"abbr": "ABM",
+			"cz": "Na úrovni",
+			"en": "Abeam"
+		},
+		{
+			"abbr": "ABN",
+			"cz": "Letištní maják",
+			"en": "Aerodrome beacon"
+		},
+		{
+			"abbr": "ABT",
+			"cz": "Asi, kolem o",
+			"en": "About"
+		},
+		{
+			"abbr": "ABV",
+			"cz": "Nad",
+			"en": "Above"
+		},
+		{
+			"abbr": "AC",
+			"cz": "Altokumulus",
+			"en": "Altocumulus"
+		},
+		{
+			"abbr": "ACARS",
+			"cz": "Palubní komunikační, adresující a hlásící systém",
+			"en": "Aircraft Communication Addressing and Reporting System"
+		},
+		{
+			"abbr": "ACAS",
+			"cz": "Palubní protisrážkový systém",
+			"en": "Airborne Collision Avoidance System"
+		},
+		{
+			"abbr": "ACC",
+			"cz": "Oblastní středisko řízení nebo oblastní služba řízení",
+			"en": "Area control centre or area control"
+		},
+		{
+			"abbr": "ACCID",
+			"cz": "Oznámení o letecké nehodě",
+			"en": "Notification of an aircraft accident"
+		},
+		{
+			"abbr": "ACFT",
+			"cz": "Letadlo",
+			"en": "Aircraft"
+		},
+		{
+			"abbr": "ACK",
+			"cz": "Potvrzení",
+			"en": "Acknowledge"
+		},
+		{
+			"abbr": "ACL",
+			"cz": "Místo pro zkoušku výškoměru",
+			"en": "Altimeter check location"
+		},
+		{
+			"abbr": "ACN",
+			"cz": "Klasifikační číslo letadla",
+			"en": "Aircraft classification number"
+		},
+		{
+			"abbr": "ACP",
+			"cz": "Souhlas (označení druhu zprávy)",
+			"en": "Acceptance (message type designator)"
+		},
+		{
+			"abbr": "ACT",
+			"cz": "V činnosti nebo v provozu nebo činnost",
+			"en": "Active or activated or activity"
+		},
+		{
+			"abbr": "AD",
+			"cz": "Letiště, letištní",
+			"en": "Aerodrome"
+		},
+		{
+			"abbr": "ADA",
+			"cz": "Poradní oblast",
+			"en": "Advisory area"
+		},
+		{
+			"abbr": "ADC",
+			"cz": "Letištní mapa",
+			"en": "Aerodrome chart"
+		},
+		{
+			"abbr": "ADDN",
+			"cz": "Doplněk nebo doplňující",
+			"en": "Addition or additional"
+		},
+		{
+			"abbr": "ADF",
+			"cz": "Radiokompas",
+			"en": "Automatic direction-finding equipment"
+		},
+		{
+			"abbr": "ADIZ",
+			"cz": "Identifikační pásmo protivzdušné obrany (vyslovuje se “AY−DIZ”)",
+			"en": "Air defence identification zone (to be pronounced “AY−DIZ”)"
+		},
+		{
+			"abbr": "ADJ",
+			"cz": "Sousední, přilehlý",
+			"en": "Adjacent"
+		},
+		{
+			"abbr": "ADR",
+			"cz": "Poradní trat’",
+			"en": "Advisory route"
+		},
+		{
+			"abbr": "ADS",
+			"cz": "Automatický závislý přehledový systém",
+			"en": "Automatic dependent surveillance"
+		},
+		{
+			"abbr": "ADSU",
+			"cz": "Jednotka automatického závislého přehledového systému",
+			"en": "Automatic dependent surveillance unit"
+		},
+		{
+			"abbr": "ADVS",
+			"cz": "Poradní služba",
+			"en": "Advisory service"
+		},
+		{
+			"abbr": "AES",
+			"cz": "Letadlová pozemní stanice",
+			"en": "Aircraft earth station"
+		},
+		{
+			"abbr": "AFIL",
+			"cz": "Letový plán podaný za letu",
+			"en": "Flight plan filed in the air"
+		},
+		{
+			"abbr": "AFI*",
+			"cz": "Afrika − Indický oceán",
+			"en": "Africa − Indian Ocean"
+		},
+		{
+			"abbr": "AFIS",
+			"cz": "Letištní letová informační služba",
+			"en": "Aerodrome flight information service"
+		},
+		{
+			"abbr": "AFM",
+			"cz": "Ano nebo potvrzuji nebo potvrzení nebo to je správně",
+			"en": "Yes or affirm or affirmative or that is correct"
+		},
+		{
+			"abbr": "AFS",
+			"cz": "Letecká pevná služba",
+			"en": "Aeronautical fixed service"
+		},
+		{
+			"abbr": "AFTN",
+			"cz": "Letecká pevná telekomunikační sít’",
+			"en": "Aeronautical fixed telecommunication network"
+		},
+		{
+			"abbr": "A/G",
+			"cz": "Vzduch − země",
+			"en": "Air-to-ground"
+		},
+		{
+			"abbr": "AGA",
+			"cz": "Letiště, letové cesty a pozemní zařízení",
+			"en": "Aerodromes, air routes and ground aids"
+		},
+		{
+			"abbr": "AGL",
+			"cz": "Nad úrovní země",
+			"en": "Above ground level"
+		},
+		{
+			"abbr": "AGMC*",
+			"cz": "Letištní mapa pro pojíždění",
+			"en": "Aerodrome ground movement chart"
+		},
+		{
+			"abbr": "AIC",
+			"cz": "Letecký informační oběžník",
+			"en": "Aeronautical information circular"
+		},
+		{
+			"abbr": "AIM",
+			"cz": "Správa leteckých informací",
+			"en": "Aeronautical information management"
+		},
+		{
+			"abbr": "AIP",
+			"cz": "Letecká informační příručka",
+			"en": "Aeronautical information publication"
+		},
+		{
+			"abbr": "AIRAC",
+			"cz": "Regulovaný systém řízení leteckých informací",
+			"en": "Aeronautical information regulation and control"
+		},
+		{
+			"abbr": "AIREP",
+			"cz": "Hlášení z letadla (meteorologické)",
+			"en": "Air-report"
+		},
+		{
+			"abbr": "ARINC",
+			"cz": "Společnost pro letecké radiokomunikační a radionavigační technické služby",
+			"en": "Aeronautical Radio, Incorporated"
+		},
+		{
+			"abbr": "AIRMET",
+			"cz": "Informace o meteorologických jevech na trati, které mohou ovlivnit bezpečnost letového provozu v nízkých hladinách",
+			"en": "Information concerning en-route weather phenomena which may affect the safety of low-level aircraft operations"
+		},
+		{
+			"abbr": "AIS",
+			"cz": "Letecké informační služby",
+			"en": "Aeronautical information services"
+		},
+		{
+			"abbr": "ALA",
+			"cz": "Vodní přistávací plocha",
+			"en": "Alighting area"
+		},
+		{
+			"abbr": "ALERFA",
+			"cz": "Údobí pohotovosti",
+			"en": "Alert phase"
+		},
+		{
+			"abbr": "ALR",
+			"cz": "Pohotovost (označení druhu zprávy)",
+			"en": "Alerting (message type designator)"
+		},
+		{
+			"abbr": "ALRS",
+			"cz": "Pohotovostní služba",
+			"en": "Alerting service"
+		},
+		{
+			"abbr": "ALS",
+			"cz": "Přibližovací světelná soustava",
+			"en": "Approach lighting system"
+		},
+		{
+			"abbr": "ALT",
+			"cz": "Nadmořská výška",
+			"en": "Altitude"
+		},
+		{
+			"abbr": "ALTN",
+			"cz": "Střídavé nebo měnící se (návěstidlo měnící barvu)",
+			"en": "Alternate or alternating (light alternates in colour)"
+		},
+		{
+			"abbr": "ALTN",
+			"cz": "Náhradní (letiště)",
+			"en": "Alternate (aerodrome)"
+		},
+		{
+			"abbr": "AMA",
+			"cz": "Minimální nadmořská výška v prostoru",
+			"en": "Area minimum altitude"
+		},
+		{
+			"abbr": "AMC*",
+			"cz": "Pracoviště uspořádání vzdušného prostoru",
+			"en": "Airspace management cell"
+		},
+		{
+			"abbr": "AMD",
+			"cz": "Opravte, opraveno nebo opravení (použito pro uvedené opravené meteorologické zprávy; označení druhu zprávy)",
+			"en": "Amend or amended (used to indicate amended meteorological message; message type designator)"
+		},
+		{
+			"abbr": "AIP AMDT",
+			"cz": "Oprava / změna",
+			"en": "Amendment (AIP Amendment)"
+		},
+		{
+			"abbr": "AMS",
+			"cz": "Letecká pohyblivá služba",
+			"en": "Aeronautical mobile service"
+		},
+		{
+			"abbr": "AMSL",
+			"cz": "Nad střední hladinou moře",
+			"en": "Above mean sea level"
+		},
+		{
+			"abbr": "ANC",
+			"cz": "Letecká mapa − 1:500 000 (následováno jménem/názvem)",
+			"en": "Aeronautical chart - 1:500 000 (followed by name/title)"
+		},
+		{
+			"abbr": "AO*",
+			"cz": "Provozovatel letadla (letadel)",
+			"en": "Aircraft operator"
+		},
+		{
+			"abbr": "AOC",
+			"cz": "Letištní překážková mapa (následováno jménem/názvem)",
+			"en": "Aerodrome obstacle chart (followed by name/title)"
+		},
+		{
+			"abbr": "AP",
+			"cz": "Letiště",
+			"en": "Airport"
+		},
+		{
+			"abbr": "APCH",
+			"cz": "Přiblížení",
+			"en": "Approach"
+		},
+		{
+			"abbr": "APDC",
+			"cz": "Mapa pro stání/zajíždění letadla (následováno jménem/názvem)",
+			"en": "Aircraft parking/docking chart (followed by name/title)"
+		},
+		{
+			"abbr": "APN",
+			"cz": "Odbavovací plocha",
+			"en": "Apron"
+		},
+		{
+			"abbr": "APP",
+			"cz": "Přibližovací stanoviště řízení nebo řízení přiblížení nebo přibližovací služba řízení",
+			"en": "Approach control office or approach control or approach control service"
+		},
+		{
+			"abbr": "APR",
+			"cz": "Duben",
+			"en": "April"
+		},
+		{
+			"abbr": "APRX",
+			"cz": "Přibližný nebo přibližně",
+			"en": "Approximate or approximately"
+		},
+		{
+			"abbr": "APV",
+			"cz": "Schválit, potvrdit nebo schváleno nebo souhlas, schválení, povolení",
+			"en": "Approve or approved or approval"
+		},
+		{
+			"abbr": "APT*",
+			"cz": "Zařízení pro příjem družicových snímků oblačnosti",
+			"en": "Receiver for satellite cloud pictures"
+		},
+		{
+			"abbr": "ARFOR*",
+			"cz": "Oblastní předpověď (v mezinárodním meteorologickém kódu)",
+			"en": "Area forecast (in aeronautical meteorological code)"
+		},
+		{
+			"abbr": "ARO",
+			"cz": "Ohlašovna letových provozních služeb",
+			"en": "Air traffic services reporting office"
+		},
+		{
+			"abbr": "ARP",
+			"cz": "Vztažný bod letiště",
+			"en": "Aerodrome reference point"
+		},
+		{
+			"abbr": "ARP",
+			"cz": "Hlášení z paluby letadla (označení druhu zprávy)",
+			"en": "Air-report (message type designator)"
+		},
+		{
+			"abbr": "ARR",
+			"cz": "Přílet (označení druhu zprávy)",
+			"en": "Arrival (message type designator)"
+		},
+		{
+			"abbr": "ARR",
+			"cz": "Přiletět nebo přílet",
+			"en": "Arrive or Arrival"
+		},
+		{
+			"abbr": "ARS",
+			"cz": "Mimořádné hlášení z letadla (meteorologické) (označení druhu zprávy)",
+			"en": "Special air-report (message type designator)"
+		},
+		{
+			"abbr": "AS",
+			"cz": "Altostratus",
+			"en": "Altostratus"
+		},
+		{
+			"abbr": "ASC",
+			"cz": "Stoupejte do nebo stoupám do",
+			"en": "Ascend to or ascending to"
+		},
+		{
+			"abbr": "ASDA",
+			"cz": "Použitelná délka přerušeného vzletu",
+			"en": "Accelerate-stop distance available"
+		},
+		{
+			"abbr": "ASM*",
+			"cz": "Uspořádání vzdušeného prostoru",
+			"en": "Airspace management"
+		},
+		{
+			"abbr": "ASPH",
+			"cz": "Asfalt",
+			"en": "Asphalt"
+		},
+		{
+			"abbr": "AT...",
+			"cz": "V ... (následuje čas, ve kterém dojde k předpovídané změně počasí)",
+			"en": "At (followed by time at which weather change is forecast to occur)"
+		},
+		{
+			"abbr": "ATA",
+			"cz": "Skutečný čas příletu",
+			"en": "Actual time of arrival"
+		},
+		{
+			"abbr": "ATC",
+			"cz": "Řízení letového provozu (všeobecně)",
+			"en": "Air traffic control (in general)"
+		},
+		{
+			"abbr": "ATCSMA*",
+			"cz": "Minimální nadmořská výška pro poskytování přehledových služeb ATC",
+			"en": "ATC Surveillance Minimum Altitude"
+		},
+		{
+			"abbr": "ATD",
+			"cz": "Skutečný čas odletu",
+			"en": "Actual time of departure"
+		},
+		{
+			"abbr": "ATFM",
+			"cz": "Uspořádání toku letového provozu",
+			"en": "Air traffic flow management"
+		},
+		{
+			"abbr": "ATIS",
+			"cz": "Automatická informační služba koncové řízení oblasti",
+			"en": "Automatic terminal information service"
+		},
+		{
+			"abbr": "ATM",
+			"cz": "Uspořádání letového provozu",
+			"en": "Air traffic management"
+		},
+		{
+			"abbr": "ATN",
+			"cz": "Letecká telekomunikační sít’",
+			"en": "Aeronautical telecommunication network"
+		},
+		{
+			"abbr": "ATS",
+			"cz": "Letové provozní služby",
+			"en": "Air traffic services"
+		},
+		{
+			"abbr": "ATTN",
+			"cz": "Pozor nebo k rukám",
+			"en": "Attention"
+		},
+		{
+			"abbr": "ATZ",
+			"cz": "Letištní provozní zóna",
+			"en": "Aerodrome traffic zone"
+		},
+		{
+			"abbr": "AUG",
+			"cz": "Srpen",
+			"en": "August"
+		},
+		{
+			"abbr": "AUP*",
+			"cz": "Plán využití vzdušného prostoru",
+			"en": "Airspace use plan"
+		},
+		{
+			"abbr": "AUTH",
+			"cz": "Oprávněný, pověřený nebo autorizace, pověření, oprávnění, zmocnění",
+			"en": "Authorized or authorization"
+		},
+		{
+			"abbr": "AUW",
+			"cz": "Celková vzletová hmotnost",
+			"en": "All up weight"
+		},
+		{
+			"abbr": "AUX",
+			"cz": "Pomocný",
+			"en": "Auxiliary"
+		},
+		{
+			"abbr": "AVASIS*",
+			"cz": "Zkrácená světelná sestupová soustava pro vizuální přiblížení",
+			"en": "Abbreviated visual approach slope indicator system"
+		},
+		{
+			"abbr": "AVBL",
+			"cz": "K dispozici, dostupný, použitelný nebo dostupnost",
+			"en": "Available or availability"
+		},
+		{
+			"abbr": "AVG",
+			"cz": "Průměrný, střední",
+			"en": "Average"
+		},
+		{
+			"abbr": "AVGAS",
+			"cz": "Letecké pohonné hmoty",
+			"en": "Aviation gasoline"
+		},
+		{
+			"abbr": "AWY",
+			"cz": "Letová cesta",
+			"en": "Airway"
+		},
+		{
+			"abbr": "AZM",
+			"cz": "Azimut, směrník",
+			"en": "Azimuth"
+		},
+		{
+			"abbr": "B",
+			"cz": "Modrý",
+			"en": "Blue"
+		},
+		{
+			"abbr": "BA",
+			"cz": "Brzdicí účinek",
+			"en": "Braking action"
+		},
+		{
+			"abbr": "BASE",
+			"cz": "Základna oblačnosti",
+			"en": "Cloud base"
+		},
+		{
+			"abbr": "BC*",
+			"cz": "Zadní sektor kurzového (LLZ) majáku ILS",
+			"en": "Localizer Back Course"
+		},
+		{
+			"abbr": "BCFG",
+			"cz": "Chuchvalce mlhy, mlhové pásy",
+			"en": "Fog patches"
+		},
+		{
+			"abbr": "BCN",
+			"cz": "Maják (letecké pozemní návěstidlo)",
+			"en": "Beacon (aeronautical ground light)"
+		},
+		{
+			"abbr": "BCST",
+			"cz": "Rozhlasové vysílání",
+			"en": "Broadcast"
+		},
+		{
+			"abbr": "BDRY",
+			"cz": "Hranice",
+			"en": "Boundary"
+		},
+		{
+			"abbr": "BECMG",
+			"cz": "Změna",
+			"en": "Becoming"
+		},
+		{
+			"abbr": "BFR",
+			"cz": "Před, dříve",
+			"en": "Before"
+		},
+		{
+			"abbr": "BKN",
+			"cz": "Oblačno, až skoro zataženo",
+			"en": "Broken"
+		},
+		{
+			"abbr": "BL...",
+			"cz": "Zvířený (následuje DU=prach, SA=písek, SN=sníh)",
+			"en": "Blowing (followed by DU=dust, SA=sand, SN=snow)"
+		},
+		{
+			"abbr": "BLDG",
+			"cz": "Stavba, budova",
+			"en": "Building"
+		},
+		{
+			"abbr": "BR",
+			"cz": "Kouřmo",
+			"en": "Mist"
+		},
+		{
+			"abbr": "BRG",
+			"cz": "Směrník (zaměření)",
+			"en": "Bearing"
+		},
+		{
+			"abbr": "BRKG",
+			"cz": "Brzdicí nebo brzdění",
+			"en": "Braking"
+		},
+		{
+			"abbr": "B RNAV*",
+			"cz": "Základní prostorová navigace",
+			"en": "Basic area navigation"
+		},
+		{
+			"abbr": "BS",
+			"cz": "Rozhlasová stanice (komerční)",
+			"en": "Commercial broadcasting station"
+		},
+		{
+			"abbr": "BTL",
+			"cz": "Mezi vrstvami",
+			"en": "Between layers"
+		},
+		{
+			"abbr": "BTN",
+			"cz": "Mezi",
+			"en": "Between"
+		},
+		{
+			"abbr": "...C",
+			"cz": "Střední (poznávací číslo před znakem slouží k identifikaci paralelní RWY)",
+			"en": "Centre (preceded by runway designation number to identify a parallel runway)"
+		},
+		{
+			"abbr": "C",
+			"cz": "Stupně Celsia",
+			"en": "Degrees Celsius (Centigrade)"
+		},
+		{
+			"abbr": "CAA*",
+			"cz": "Úřad pro civilní letectví",
+			"en": "Civil Aviation Authority"
+		},
+		{
+			"abbr": "CAC*",
+			"cz": "Mapa pro přiblížení okruhem",
+			"en": "Circling Approach Chart"
+		},
+		{
+			"abbr": "CAT",
+			"cz": "Kategorie",
+			"en": "Category"
+		},
+		{
+			"abbr": "CAT",
+			"cz": "Turbulence v čistém ovzduší",
+			"en": "Clear air turbulence"
+		},
+		{
+			"abbr": "CAVOK",
+			"cz": "Dohlednost, oblačnost a současné počasí lepší, než předepsané hodnoty nebo podmínky",
+			"en": "Visibility, cloud and present weather better than prescribed values or conditions"
+		},
+		{
+			"abbr": "CB",
+			"cz": "Cumulonimbus",
+			"en": "Cumulonimbus"
+		},
+		{
+			"abbr": "CC",
+			"cz": "Cirrocumulus",
+			"en": "Cirrocumulus"
+		},
+		{
+			"abbr": "CCA*",
+			"cz": "Kruhový oblouk proti směru hodinových ručiček",
+			"en": "Counter Clockwise arc"
+		},
+		{
+			"abbr": "CDR*",
+			"cz": "Kondicionální trať",
+			"en": "Conditional route"
+		},
+		{
+			"abbr": "CDN",
+			"cz": "Koordinace (označení druhu zprávy)",
+			"en": "Coordination (message type designator)"
+		},
+		{
+			"abbr": "CH",
+			"cz": "Kanál",
+			"en": "Channel"
+		},
+		{
+			"abbr": "CHG",
+			"cz": "Změna (označení druhu zprávy)",
+			"en": "Modification (message type designator)"
+		},
+		{
+			"abbr": "CHMI (ČHMÚ)*",
+			"cz": "Český hydrometeorologický ústav",
+			"en": "Czech Hydrometeorogical Institute"
+		},
+		{
+			"abbr": "CI",
+			"cz": "Cirrus",
+			"en": "Cirrus"
+		},
+		{
+			"abbr": "CIDIN",
+			"cz": "Jednotná sít’ ICAO pro výměnu dat",
+			"en": "Common ICAO data interchange network"
+		},
+		{
+			"abbr": "CIT",
+			"cz": "V blízkosti nebo nad velkými městy",
+			"en": "Near or over large towns"
+		},
+		{
+			"abbr": "CIV",
+			"cz": "Civilní",
+			"en": "Civil"
+		},
+		{
+			"abbr": "CK",
+			"cz": "Kontrola",
+			"en": "Check"
+		},
+		{
+			"abbr": "CL",
+			"cz": "Osa, středová čára",
+			"en": "Centre line"
+		},
+		{
+			"abbr": "CLA",
+			"cz": "Ledovka",
+			"en": "Clear type of ice formation"
+		},
+		{
+			"abbr": "CLBR",
+			"cz": "Kalibrace, seřízení",
+			"en": "Calibration"
+		},
+		{
+			"abbr": "CLD",
+			"cz": "Oblaka nebo oblačnost",
+			"en": "Cloud"
+		},
+		{
+			"abbr": "CLR",
+			"cz": "Povolte nebo povoleno do ... nebo povolení",
+			"en": "Clear or cleared to ... or clearance"
+		},
+		{
+			"abbr": "CLSD",
+			"cz": "Uzavřít nebo uzavřený nebo uzavírající",
+			"en": "Close or closed or closing"
+		},
+		{
+			"abbr": "CM",
+			"cz": "Centimetr",
+			"en": "Centimetre"
+		},
+		{
+			"abbr": "CMB",
+			"cz": "Stoupat do nebo stoupám do",
+			"en": "Climb to or climbing to"
+		},
+		{
+			"abbr": "CMPL",
+			"cz": "Ukončení nebo ukončený nebo úplný, ukončit",
+			"en": "Completion or completed or complete"
+		},
+		{
+			"abbr": "CNL",
+			"cz": "Zrušit nebo zrušeno",
+			"en": "Cancel or cancelled"
+		},
+		{
+			"abbr": "CNL",
+			"cz": "Zrušení letového plánu (označení druhu zprávy)",
+			"en": "Flight plan cancellation (message type designator)"
+		},
+		{
+			"abbr": "CNS",
+			"cz": "Komunikace, navigace a přehled",
+			"en": "Communications, navigation and surveillance"
+		},
+		{
+			"abbr": "COM",
+			"cz": "Telekomunikace",
+			"en": "Communications"
+		},
+		{
+			"abbr": "CONC",
+			"cz": "Beton",
+			"en": "Concrete"
+		},
+		{
+			"abbr": "COND",
+			"cz": "Podmínka",
+			"en": "Condition"
+		},
+		{
+			"abbr": "CONS",
+			"cz": "Souvislý, nepřetržitý",
+			"en": "Continuous"
+		},
+		{
+			"abbr": "CONST",
+			"cz": "Výstavba nebo vybudovaný",
+			"en": "Construction or constructed"
+		},
+		{
+			"abbr": "CONT",
+			"cz": "Pokračujte nebo pokračující",
+			"en": "Continue or continued"
+		},
+		{
+			"abbr": "COOR",
+			"cz": "Koordinace nebo koordinování",
+			"en": "Co−ordinate or co−ordination"
+		},
+		{
+			"abbr": "COP",
+			"cz": "Bod přechodu",
+			"en": "Change-over point"
+		},
+		{
+			"abbr": "COR",
+			"cz": "Správně nebo opravený nebo oprava (použito pro opravenou meteorologickou zprávu, označení druhu zprávy)",
+			"en": "Correct or corrected or correction (used to indicate corrected meteorological message; message type indicator)"
+		},
+		{
+			"abbr": "COV",
+			"cz": "Pokrýt nebo pokrytý nebo pokrývající",
+			"en": "Cover or covered or covering"
+		},
+		{
+			"abbr": "CPDLC",
+			"cz": "Spojení řídící−pilot datovým spojem",
+			"en": "Controller-pilot data link communications"
+		},
+		{
+			"abbr": "CPL",
+			"cz": "Platný letový plán (označení druhu zprávy)",
+			"en": "Current flight plan (message type designator)"
+		},
+		{
+			"abbr": "CR (ČR)*",
+			"cz": "Česká republika",
+			"en": "The Czech Republic"
+		},
+		{
+			"abbr": "CRZ",
+			"cz": "Let v cestovním režimu",
+			"en": "Cruise"
+		},
+		{
+			"abbr": "CS",
+			"cz": "Volací značka",
+			"en": "Call sign"
+		},
+		{
+			"abbr": "CS",
+			"cz": "Cirrostratus",
+			"en": "Cirrostratus"
+		},
+		{
+			"abbr": "CTA",
+			"cz": "Řízená oblast",
+			"en": "Control area"
+		},
+		{
+			"abbr": "CTC",
+			"cz": "Kontakt",
+			"en": "Contact"
+		},
+		{
+			"abbr": "CTOT",
+			"cz": "Vypočítaný čas pro vzlet",
+			"en": "Calculated Take−Off Time"
+		},
+		{
+			"abbr": "CTL",
+			"cz": "Řízení",
+			"en": "Control"
+		},
+		{
+			"abbr": "CTN",
+			"cz": "Opatrnost",
+			"en": "Caution"
+		},
+		{
+			"abbr": "CTR",
+			"cz": "Řízený okrsek",
+			"en": "Control zone"
+		},
+		{
+			"abbr": "CU",
+			"cz": "Kumulus",
+			"en": "Cumulus"
+		},
+		{
+			"abbr": "CUF",
+			"cz": "Kupovitá oblaka",
+			"en": "Cumuliform"
+		},
+		{
+			"abbr": "CUST",
+			"cz": "Celní odbavení, celnice",
+			"en": "Customs"
+		},
+		{
+			"abbr": "CVR",
+			"cz": "Zapisovač hlasu v pilotní kabině",
+			"en": "Cockpit voice recorder"
+		},
+		{
+			"abbr": "CVSM",
+			"cz": "Nesnížené minimum vertikálního rozstupu",
+			"en": "Conventional vertical separation minimum"
+		},
+		{
+			"abbr": "CWA*",
+			"cz": "Kruhový oblouk po směru hodinových ručiček",
+			"en": "Clockwise arc"
+		},
+		{
+			"abbr": "CWY",
+			"cz": "Předpolí",
+			"en": "Clearway"
+		},
+		{
+			"abbr": "CZ*",
+			"cz": "Čeština",
+			"en": "Czech language"
+		},
+		{
+			"abbr": "D...",
+			"cz": "Nebezpečný prostor (následováno označením prostoru)",
+			"en": "Danger area (followed by identification)"
+		},
+		{
+			"abbr": "D",
+			"cz": "Sestupná (tendence RVR hodnot v průběhu posledních 10 minut)",
+			"en": "Downward (tendency in RVR during previous 10 minutes)"
+		},
+		{
+			"abbr": "D*",
+			"cz": "Samoobslužný briefing pomocí displeje",
+			"en": "Self−briefing display"
+		},
+		{
+			"abbr": "DA",
+			"cz": "Nadmořská výška rozhodnutí",
+			"en": "Decision altitude"
+		},
+		{
+			"abbr": "DCKG",
+			"cz": "Zavádění letadla na stání",
+			"en": "Docking"
+		},
+		{
+			"abbr": "DCL",
+			"cz": "Odletové povolení datovým spojem",
+			"en": "Datalink Departure Clearance Service"
+		},
+		{
+			"abbr": "DCT",
+			"cz": "Přímo (ve vztahu k letovým povolením a nebo druhu přiblížení)",
+			"en": "Direct (in relation to flight plan clearances and type of approach)"
+		},
+		{
+			"abbr": "DEC",
+			"cz": "Prosinec",
+			"en": "December"
+		},
+		{
+			"abbr": "DEG",
+			"cz": "Stupně",
+			"en": "Degrees"
+		},
+		{
+			"abbr": "DEP",
+			"cz": "Odletět nebo odlet",
+			"en": "Depart or departure"
+		},
+		{
+			"abbr": "DEP",
+			"cz": "Odlet (označení druhu zprávy)",
+			"en": "Departure (message type designator)"
+		},
+		{
+			"abbr": "DES",
+			"cz": "Klesejte nebo klesám do ...",
+			"en": "Descend to or descending to ..."
+		},
+		{
+			"abbr": "DEST",
+			"cz": "Místo určení",
+			"en": "Destination"
+		},
+		{
+			"abbr": "DETRESFA",
+			"cz": "Údobí tísně",
+			"en": "Distress phase"
+		},
+		{
+			"abbr": "DEV",
+			"cz": "Odchylka, výchylka nebo odchýlení",
+			"en": "Deviation or deviating"
+		},
+		{
+			"abbr": "DFDR",
+			"cz": "Digitální zapisovač letových údajů",
+			"en": "Digital flight data recorder"
+		},
+		{
+			"abbr": "DFTI",
+			"cz": "Ukazatel vzdálenosti od bodu dotyku",
+			"en": "Distance from touchdown indicator"
+		},
+		{
+			"abbr": "DH",
+			"cz": "Výška rozhodnutí",
+			"en": "Decision height"
+		},
+		{
+			"abbr": "DIF",
+			"cz": "Rozptýlené světlo",
+			"en": "Diffuse"
+		},
+		{
+			"abbr": "DIST",
+			"cz": "Vzdálenost",
+			"en": "Distance"
+		},
+		{
+			"abbr": "DIV",
+			"cz": "Směřovat, odklonit nebo směřování",
+			"en": "Divert or diverting"
+		},
+		{
+			"abbr": "DLA",
+			"cz": "Zdržení (označení druhu zprávy)",
+			"en": "Delay (message type designator)"
+		},
+		{
+			"abbr": "DLA",
+			"cz": "Zdržení nebo zdrženo",
+			"en": "Delay or delayed"
+		},
+		{
+			"abbr": "DLS*",
+			"cz": "Služba přenosu datovým spojem",
+			"en": "Data link service"
+		},
+		{
+			"abbr": "DLY",
+			"cz": "Denně, denní",
+			"en": "Daily"
+		},
+		{
+			"abbr": "DME",
+			"cz": "Měřič vzdálenosti",
+			"en": "Distance measuring equipment"
+		},
+		{
+			"abbr": "DNG",
+			"cz": "Nebezpečí nebo nebezpečný",
+			"en": "Danger or dangerous"
+		},
+		{
+			"abbr": "DOM",
+			"cz": "Domácí, tuzemský",
+			"en": "Domestic"
+		},
+		{
+			"abbr": "DP",
+			"cz": "Teplota rosného bodu",
+			"en": "Dew point temperature"
+		},
+		{
+			"abbr": "DPT",
+			"cz": "Hloubka (výška vrstvy)",
+			"en": "Depth"
+		},
+		{
+			"abbr": "DR",
+			"cz": "Navigace výpočtem",
+			"en": "Dead reckoning"
+		},
+		{
+			"abbr": "DR...",
+			"cz": "Nízko zvířený (následuje DU=prach, SA=písek, SN=sníh)",
+			"en": "Low drifting (followed by DU=dust, SA=sand or SN=snow)"
+		},
+		{
+			"abbr": "DRG",
+			"cz": "Během, po dobu",
+			"en": "During"
+		},
+		{
+			"abbr": "DS",
+			"cz": "Prachová vichřice",
+			"en": "Duststorm"
+		},
+		{
+			"abbr": "DTG",
+			"cz": "Skupina datum/čas",
+			"en": "Date-time group"
+		},
+		{
+			"abbr": "DTRT",
+			"cz": "Zhoršuje se nebo zhoršující se",
+			"en": "Deteriorate or deteriorating"
+		},
+		{
+			"abbr": "DU",
+			"cz": "Prach",
+			"en": "Dust"
+		},
+		{
+			"abbr": "DUR",
+			"cz": "Trvání",
+			"en": "Duration"
+		},
+		{
+			"abbr": "DVOR",
+			"cz": "Dopplerův VOR",
+			"en": "Doppler VOR"
+		},
+		{
+			"abbr": "DZ",
+			"cz": "Mrholení",
+			"en": "Drizzle"
+		},
+		{
+			"abbr": "E",
+			"cz": "Východ nebo východní zeměpisná délka",
+			"en": "East or eastern longitude"
+		},
+		{
+			"abbr": "EAT",
+			"cz": "Předpokládaný čas přiblížení",
+			"en": "Expected approach time"
+		},
+		{
+			"abbr": "EANPG*",
+			"cz": "Evropská plánovací skupina pro leteckou navigaci",
+			"en": "European air navigation planning group"
+		},
+		{
+			"abbr": "EATMS*",
+			"cz": "Evropské uspořádání letového provozu",
+			"en": "European air traffic management system"
+		},
+		{
+			"abbr": "EB",
+			"cz": "Východním směrem",
+			"en": "Eastbound"
+		},
+		{
+			"abbr": "ECAC*",
+			"cz": "Evropská konference pro civilní letectví",
+			"en": "European civil aviation conference"
+		},
+		{
+			"abbr": "EET",
+			"cz": "Předpokládaná doba letu",
+			"en": "Estimated elapsed time"
+		},
+		{
+			"abbr": "EHF",
+			"cz": "Milimetrové vlny (30 000 MHz až 300 000 MHz)",
+			"en": "Extremely high frequency (30 000 to 300 000 MHz)"
+		},
+		{
+			"abbr": "ELBA",
+			"cz": "Palubní nouzový maják polohy",
+			"en": "Emergency location beacon-aircraft"
+		},
+		{
+			"abbr": "ELEV",
+			"cz": "Výška nad mořem",
+			"en": "Elevation"
+		},
+		{
+			"abbr": "ELR",
+			"cz": "Obzvlášt velký dosah",
+			"en": "Extra long range"
+		},
+		{
+			"abbr": "EM",
+			"cz": "Vysílání, emise",
+			"en": "Emission"
+		},
+		{
+			"abbr": "EMBD",
+			"cz": "Prorůstající vrstvou (k indikaci cumulonimbu prorůstajícího vrstevnatou oblačností)",
+			"en": "Embedded in a layer (to indicate cumulonimbus embedded in layers of other clouds)"
+		},
+		{
+			"abbr": "EMERG",
+			"cz": "Nouze",
+			"en": "Emergency"
+		},
+		{
+			"abbr": "EN*",
+			"cz": "Angličtina",
+			"en": "English language"
+		},
+		{
+			"abbr": "END",
+			"cz": "Konec RWY (vztaženo k RVR)",
+			"en": "Stop-end (related to RVR)"
+		},
+		{
+			"abbr": "ENE",
+			"cz": "Východoseverovýchod",
+			"en": "East-north-east"
+		},
+		{
+			"abbr": "ENG",
+			"cz": "Motor, pohonná jednotka",
+			"en": "Engine"
+		},
+		{
+			"abbr": "ENR",
+			"cz": "Tratě, traťový",
+			"en": "Enroute"
+		},
+		{
+			"abbr": "ENRC",
+			"cz": "Traťová mapa (následováno jménem/názvem)",
+			"en": "Enroute chart (followed by name/title)"
+		},
+		{
+			"abbr": "EOBD",
+			"cz": "Předpokládané datum zahájení pojíždění",
+			"en": "Estimated off−block date"
+		},
+		{
+			"abbr": "EOBT",
+			"cz": "Předpokládaný čas zahájení pojíždění",
+			"en": "Estimated off-block time"
+		},
+		{
+			"abbr": "EQPT",
+			"cz": "Vybavení, zařízení",
+			"en": "Equipment"
+		},
+		{
+			"abbr": "EPNdB*",
+			"cz": "Jednotka efektivní hladiny vnímaného hluku",
+			"en": "Unit of effective perceived noise level"
+		},
+		{
+			"abbr": "EPNL*",
+			"cz": "Efektivní hladina vnímaného hluku",
+			"en": "Effective perceived noise level"
+		},
+		{
+			"abbr": "ESE",
+			"cz": "Východojihovýchod",
+			"en": "East-south-east"
+		},
+		{
+			"abbr": "EST",
+			"cz": "Předpokládat nebo předpokládaný nebo předpoklad (jako označení druhu zprávy)",
+			"en": "Estimate or estimated or estimation (message type designator)"
+		},
+		{
+			"abbr": "ETA",
+			"cz": "Předpokládaný čas příletu nebo předpokládaný přílet",
+			"en": "Estimated time of arrival or estimating arrival"
+		},
+		{
+			"abbr": "ETD",
+			"cz": "Předpokládaný čas odletu nebo předpokládaný odlet",
+			"en": "Estimated time of departure or estimating departure"
+		},
+		{
+			"abbr": "ETO",
+			"cz": "Předpokládaný čas přeletu vyznačeného bodu",
+			"en": "Estimated time over significant point"
+		},
+		{
+			"abbr": "ETOT",
+			"cz": "Předpokládaný čas vzletu",
+			"en": "Estimated Take−Off Time"
+		},
+		{
+			"abbr": "EU*",
+			"cz": "Evropská unie",
+			"en": "the European Union"
+		},
+		{
+			"abbr": "EUR*",
+			"cz": "Evropská oblast",
+			"en": "European Region"
+		},
+		{
+			"abbr": "EV",
+			"cz": "Každý",
+			"en": "Every"
+		},
+		{
+			"abbr": "EXC",
+			"cz": "Kromě",
+			"en": "Except"
+		},
+		{
+			"abbr": "EXER",
+			"cz": "Cvičení nebo cvičící nebo cvičit",
+			"en": "Exercises or exercising or to exercise"
+		},
+		{
+			"abbr": "EXP",
+			"cz": "Očekávat nebo očekávaný nebo očekávající",
+			"en": "Expect or expected or expecting"
+		},
+		{
+			"abbr": "EXTD",
+			"cz": "Rozšiřuje se nebo rozšířit nebo rozšiřující se",
+			"en": "Extend or extending"
+		},
+		{
+			"abbr": "F",
+			"cz": "Pevný",
+			"en": "Fixed"
+		},
+		{
+			"abbr": "FAC",
+			"cz": "Zařízení",
+			"en": "Facilities"
+		},
+		{
+			"abbr": "FAF",
+			"cz": "Fix konečného přiblížení",
+			"en": "Final approach fix"
+		},
+		{
+			"abbr": "FAL",
+			"cz": "Zjednodušení formalit a usnadnění mezinárodní letecké dopravy",
+			"en": "Facilitation of international air transport"
+		},
+		{
+			"abbr": "FAP",
+			"cz": "Bod konečného přiblížení",
+			"en": "Final approach point"
+		},
+		{
+			"abbr": "FATO",
+			"cz": "Plocha konečného přiblížení a vzletu",
+			"en": "Final approach and take-off area"
+		},
+		{
+			"abbr": "FAX",
+			"cz": "Vysílání faksimile",
+			"en": "Facsimile transmission"
+		},
+		{
+			"abbr": "FBL",
+			"cz": "Slabý (používá se k indikaci intenzity jevů počasí, vlivu nebo k oznámení statického stavu, např. FBL RA = slabý déšt’)",
+			"en": "Light (used to indicate the intensity of weather phenomena, interference or static reports, e.g. FBL RA=light rain)"
+		},
+		{
+			"abbr": "FBZ*",
+			"cz": "Ochranná zóna pro plánování letů",
+			"en": "Flight Planning Buffer Zone"
+		},
+		{
+			"abbr": "FC",
+			"cz": "Nálevkovitý oblak (tornádo nebo vodní smršt’)",
+			"en": "Funnel cloud (tornado or water spout)"
+		},
+		{
+			"abbr": "FCST",
+			"cz": "Předpověď",
+			"en": "Forecast"
+		},
+		{
+			"abbr": "FCT",
+			"cz": "Koeficient tření",
+			"en": "Friction coefficient"
+		},
+		{
+			"abbr": "FDP*",
+			"cz": "Zpracování letových údajů",
+			"en": "Flight data processing"
+		},
+		{
+			"abbr": "FEB",
+			"cz": "Únor",
+			"en": "February"
+		},
+		{
+			"abbr": "FG",
+			"cz": "Mlha",
+			"en": "Fog"
+		},
+		{
+			"abbr": "FIC",
+			"cz": "Letové informační středisko",
+			"en": "Flight information centre"
+		},
+		{
+			"abbr": "FIR",
+			"cz": "Letová informační oblast",
+			"en": "Flight information region"
+		},
+		{
+			"abbr": "FIS",
+			"cz": "Letová informační služba",
+			"en": "Flight information service"
+		},
+		{
+			"abbr": "FISA",
+			"cz": "Automatizovaná letová informační služba",
+			"en": "Automated flight information service"
+		},
+		{
+			"abbr": "FL",
+			"cz": "Letová hladina",
+			"en": "Flight level"
+		},
+		{
+			"abbr": "FLD",
+			"cz": "Pole",
+			"en": "Field"
+		},
+		{
+			"abbr": "FLG",
+			"cz": "Zábleskový",
+			"en": "Flashing"
+		},
+		{
+			"abbr": "FLR",
+			"cz": "Světlice, signální ohně",
+			"en": "Flares"
+		},
+		{
+			"abbr": "FLT",
+			"cz": "Let",
+			"en": "Flight"
+		},
+		{
+			"abbr": "FLTCK",
+			"cz": "Letové ověření",
+			"en": "Flight check"
+		},
+		{
+			"abbr": "FLUC",
+			"cz": "Kolísající nebo kolísavý nebo kolísání",
+			"en": "Fluctuating or fluctuation or fluctuated"
+		},
+		{
+			"abbr": "FLW",
+			"cz": "Následovat, následujte nebo následující",
+			"en": "Follow(s) or following"
+		},
+		{
+			"abbr": "FLY",
+			"cz": "Letět nebo letící",
+			"en": "Fly or flying"
+		},
+		{
+			"abbr": "FM",
+			"cz": "Od",
+			"en": "From"
+		},
+		{
+			"abbr": "FM...",
+			"cz": "Od (následuje čas začátku předpokladné změny počasí)",
+			"en": "From (followed by time weather change is forecast to begin)"
+		},
+		{
+			"abbr": "FMS",
+			"cz": "Systém pro řízení a optimalizaci letu",
+			"en": "Flight management system"
+		},
+		{
+			"abbr": "FMU",
+			"cz": "Stanoviště uspořádání toku letového provozu",
+			"en": "Flow management unit"
+		},
+		{
+			"abbr": "FNA",
+			"cz": "Konečné přiblížení",
+			"en": "Final approach"
+		},
+		{
+			"abbr": "FPL",
+			"cz": "Podaný letový plán (označení druhu zprávy)",
+			"en": "Filed flight plan (message type designator)"
+		},
+		{
+			"abbr": "FPM",
+			"cz": "Stopy za minutu",
+			"en": "Feet per minute"
+		},
+		{
+			"abbr": "FPR",
+			"cz": "Trat’ letového plánu",
+			"en": "Flight plan route"
+		},
+		{
+			"abbr": "FR",
+			"cz": "Zbývající palivo",
+			"en": "Fuel remaining"
+		},
+		{
+			"abbr": "FR*",
+			"cz": "Francouzský jazyk",
+			"en": "French language"
+		},
+		{
+			"abbr": "FRA",
+			"cz": "Vzdušný prostor volných tratí",
+			"en": "Free Route Airspace"
+		},
+		{
+			"abbr": "FREQ*",
+			"cz": "Kmitočet nebo kmitočtový kanál",
+			"en": "Frequency or frequency channel"
+		},
+		{
+			"abbr": "FRI",
+			"cz": "Pátek",
+			"en": "Friday"
+		},
+		{
+			"abbr": "FRNG",
+			"cz": "Střelba",
+			"en": "Firing"
+		},
+		{
+			"abbr": "FRONT",
+			"cz": "Fronta (ve vztahu k počasí)",
+			"en": "Front (relating to weather)"
+		},
+		{
+			"abbr": "FRQ",
+			"cz": "Četný, častý",
+			"en": "Frequent"
+		},
+		{
+			"abbr": "FSL",
+			"cz": "Přistání do úplného zastavení",
+			"en": "Full stop landing"
+		},
+		{
+			"abbr": "FSS",
+			"cz": "Stanice letové služby",
+			"en": "Flight service station"
+		},
+		{
+			"abbr": "FST",
+			"cz": "První",
+			"en": "First"
+		},
+		{
+			"abbr": "FT",
+			"cz": "Stopa (měrová jednotka)",
+			"en": "Feet (dimensional unit)"
+		},
+		{
+			"abbr": "FU",
+			"cz": "Kouř",
+			"en": "Smoke"
+		},
+		{
+			"abbr": "FUA*",
+			"cz": "Pružné využití vzdušného prostoru",
+			"en": "Flexibile use of airspace"
+		},
+		{
+			"abbr": "FZ",
+			"cz": "Namrzající",
+			"en": "Freezing"
+		},
+		{
+			"abbr": "FZDZ",
+			"cz": "Namrzající mrholení",
+			"en": "Freezing drizzle"
+		},
+		{
+			"abbr": "FZFG",
+			"cz": "Namrzající mlha",
+			"en": "Freezing fog"
+		},
+		{
+			"abbr": "FZRA",
+			"cz": "Namrzající déšt’",
+			"en": "Freezing rain"
+		},
+		{
+			"abbr": "G",
+			"cz": "Zelený",
+			"en": "Green"
+		},
+		{
+			"abbr": "G/A",
+			"cz": "Země−vzduch",
+			"en": "Ground-to-air"
+		},
+		{
+			"abbr": "G/A/G",
+			"cz": "Země−vzduch a vzduch−země",
+			"en": "Ground-to-air and air-to-ground"
+		},
+		{
+			"abbr": "GAMET",
+			"cz": "Oblastní předpověď pro lety v nízkých hladinách",
+			"en": "Area forecast for low-level flights"
+		},
+		{
+			"abbr": "GAT",
+			"cz": "Let prováděný v souladu s pravidly a postupy ICAO, bez ohledu na rezortní nebo státní příslušnost letadla",
+			"en": "General air traffic"
+		},
+		{
+			"abbr": "GCA",
+			"cz": "Systém řízení přiblížení ze země nebo přiblížení řízené ze země",
+			"en": "Ground controlled approach system or ground controlled approach"
+		},
+		{
+			"abbr": "GEN",
+			"cz": "Všeobecný, všeobecně",
+			"en": "General"
+		},
+		{
+			"abbr": "GEO",
+			"cz": "Zeměpisný nebo pravý, zeměpisný",
+			"en": "Geographic or true"
+		},
+		{
+			"abbr": "GER*",
+			"cz": "Němčina",
+			"en": "German language"
+		},
+		{
+			"abbr": "GES",
+			"cz": "Pozemní pozemská stanice",
+			"en": "Ground earth station"
+		},
+		{
+			"abbr": "GLD",
+			"cz": "Kluzák",
+			"en": "Glider"
+		},
+		{
+			"abbr": "GLONASS",
+			"cz": "Globální navigační satelitní systém na oběžné dráze (vyslovuje se \"\"GLO−NAS\"\")",
+			"en": "Global orbiting navigation satellite system (to be pronounced \"\"GLO−NAS\"\")"
+		},
+		{
+			"abbr": "GMC",
+			"cz": "Letištní mapa pro pojíždění (následováno jménem/ názvem)",
+			"en": "Ground movement chart (followed by name/title)"
+		},
+		{
+			"abbr": "GND",
+			"cz": "Země",
+			"en": "Ground"
+		},
+		{
+			"abbr": "GNDCK",
+			"cz": "Pozemní ověření",
+			"en": "Ground check"
+		},
+		{
+			"abbr": "GNSS",
+			"cz": "Globální navigační satelitní systém",
+			"en": "Global navigation satellite system"
+		},
+		{
+			"abbr": "GP",
+			"cz": "Sestupový maják ILS, sestupová rovina",
+			"en": "Glide path"
+		},
+		{
+			"abbr": "GPS",
+			"cz": "Globální systém určení polohy",
+			"en": "Global positioning system"
+		},
+		{
+			"abbr": "GPU",
+			"cz": "Pozemní energetická jednotka",
+			"en": "Ground power unit"
+		},
+		{
+			"abbr": "GR",
+			"cz": "Kroupy",
+			"en": "Hail"
+		},
+		{
+			"abbr": "GRC*",
+			"cz": "Ortodroma (velká kružnice)",
+			"en": "Orthodrome (great circle)"
+		},
+		{
+			"abbr": "GRASS",
+			"cz": "Travnatá přistávací plocha",
+			"en": "Grass landing area"
+		},
+		{
+			"abbr": "GRVL",
+			"cz": "Štěrk",
+			"en": "Gravel"
+		},
+		{
+			"abbr": "GS",
+			"cz": "Trat’ová rychlost",
+			"en": "Ground speed"
+		},
+		{
+			"abbr": "GS",
+			"cz": "Malé kroupy a/nebo sněhové nebo námrazové krupky",
+			"en": "Small hail and/or snow pellets"
+		},
+		{
+			"abbr": "GUND",
+			"cz": "Zvlnění geoidu",
+			"en": "Geoid undulation"
+		},
+		{
+			"abbr": "H",
+			"cz": "Oblast vysokého tlaku, tlaková výše nebo střed oblasti vysokého tlaku",
+			"en": "High pressure area or the centre of high pressure"
+		},
+		{
+			"abbr": "H24",
+			"cz": "Nepřetržitá denní a noční služba",
+			"en": "Continuous day and night service"
+		},
+		{
+			"abbr": "HAPI",
+			"cz": "Světelná soustava indikace sestupové roviny pro vrtulníky",
+			"en": "Helicopter approach path indicator"
+		},
+		{
+			"abbr": "HBN",
+			"cz": "Výstražný maják",
+			"en": "Hazard beacon"
+		},
+		{
+			"abbr": "HDF",
+			"cz": "Zaměřovací stanice pracující na krátkých vlnách",
+			"en": "High frequency direction-finding station"
+		},
+		{
+			"abbr": "HDG",
+			"cz": "Kurs nebo záhlaví",
+			"en": "Heading"
+		},
+		{
+			"abbr": "HEL",
+			"cz": "Vrtulník",
+			"en": "Helicopter"
+		},
+		{
+			"abbr": "HEMS*",
+			"cz": "Vrtulníková letecká záchranná služba",
+			"en": "Helicopter Emergency Medical Service"
+		},
+		{
+			"abbr": "HF",
+			"cz": "Dekametrové vlny (3 000 až 30 000 kHz)",
+			"en": "High frequency (3 000 to 30 000 KHz)"
+		},
+		{
+			"abbr": "HGT",
+			"cz": "Výška nebo výška nad ...",
+			"en": "Height or height above ..."
+		},
+		{
+			"abbr": "HJ",
+			"cz": "Od východu do západu slunce",
+			"en": "Sunrise to sunset"
+		},
+		{
+			"abbr": "HLDG",
+			"cz": "Vyčkávání",
+			"en": "Holding"
+		},
+		{
+			"abbr": "HN",
+			"cz": "Od západu do východu slunce",
+			"en": "Sunset to sunrise"
+		},
+		{
+			"abbr": "HO",
+			"cz": "Služba je k dispozici podle potřeb provozu",
+			"en": "Service available to meet operational requirements"
+		},
+		{
+			"abbr": "HOL",
+			"cz": "Den pracovního klidu",
+			"en": "Holiday"
+		},
+		{
+			"abbr": "HOSP",
+			"cz": "Sanitní letadlo",
+			"en": "Hospital aircraft"
+		},
+		{
+			"abbr": "HPA",
+			"cz": "Hektopascal",
+			"en": "Hectopascal"
+		},
+		{
+			"abbr": "HR",
+			"cz": "Hodina, hodiny",
+			"en": "Hours"
+		},
+		{
+			"abbr": "HS",
+			"cz": "Služba je k dispozici v době pravidelných letů",
+			"en": "Service available during hours of scheduled operations"
+		},
+		{
+			"abbr": "HURCN",
+			"cz": "Hurikán",
+			"en": "Hurricane"
+		},
+		{
+			"abbr": "HVDF",
+			"cz": "Zaměřovací stanice pracující na krátkých a velmi krátkých vlnách (ve stejné poloze)",
+			"en": "High and very high frequency direction-finding stations (at the same location)"
+		},
+		{
+			"abbr": "HVY",
+			"cz": "Těžký",
+			"en": "Heavy"
+		},
+		{
+			"abbr": "HVY",
+			"cz": "Silný (používá se k indikaci intenzity jevů počasí, např. HVY RA = silný déšt’)",
+			"en": "Heavy (used to indicate the intensity of weather phenomena, e. g. HVY RA=Heavy rain)"
+		},
+		{
+			"abbr": "HX",
+			"cz": "Doba činnosti není specifikována",
+			"en": "No specific working hours"
+		},
+		{
+			"abbr": "HZ",
+			"cz": "Zákal",
+			"en": "Haze"
+		},
+		{
+			"abbr": "HZ",
+			"cz": "Hertz (cykly za sekundu)",
+			"en": "Hertz (cycle per second)"
+		},
+		{
+			"abbr": "IAC",
+			"cz": "Mapa přiblížení podle přístrojů (následováno jménem /názvem)",
+			"en": "Instrument approach chart (followed by name/title)"
+		},
+		{
+			"abbr": "IAF",
+			"cz": "Fix počátečního přiblížení",
+			"en": "Initial approach fix"
+		},
+		{
+			"abbr": "IAO",
+			"cz": "Střídavě v oblacích",
+			"en": "In and out of clouds"
+		},
+		{
+			"abbr": "IAP",
+			"cz": "Postup přiblížení podle přístrojů",
+			"en": "Instrument approach procedure"
+		},
+		{
+			"abbr": "IAR",
+			"cz": "Křižovatka letových tratí",
+			"en": "Intersection of air routes"
+		},
+		{
+			"abbr": "IAS",
+			"cz": "Indikovaná vzdušná rychlost",
+			"en": "Indicated air speed"
+		},
+		{
+			"abbr": "IATA",
+			"cz": "Mezinárodní sdružení leteckých dopravců",
+			"en": "International Air Transport Association"
+		},
+		{
+			"abbr": "IBN",
+			"cz": "Poznávací maják",
+			"en": "Identification beacon"
+		},
+		{
+			"abbr": "IC",
+			"cz": "Ledové krystalky (velmi malé rozptýlené ledové krystalky / jehličky, také známé jako diamantový prach)",
+			"en": "Ice crystals (very small ice crystals in suspension, also known as diamond dust)"
+		},
+		{
+			"abbr": "ICAO*",
+			"cz": "Mezinárodní organizace pro civilní letectví",
+			"en": "International Civil Aviation Organization"
+		},
+		{
+			"abbr": "ICE",
+			"cz": "Námraza",
+			"en": "Icing"
+		},
+		{
+			"abbr": "ID",
+			"cz": "Identifikátor nebo identifikujte",
+			"en": "Identifier or identify"
+		},
+		{
+			"abbr": "IDENT",
+			"cz": "Identifikace",
+			"en": "Identification"
+		},
+		{
+			"abbr": "IF",
+			"cz": "Fix středního přiblížení",
+			"en": "Intermediate approach fix"
+		},
+		{
+			"abbr": "IFPS*",
+			"cz": "Systém pro zpracování letových plánů",
+			"en": "Initial Flight Plan Processing System"
+		},
+		{
+			"abbr": "IFR",
+			"cz": "Pravidla pro let podle přístrojů",
+			"en": "Instrument flight rules"
+		},
+		{
+			"abbr": "IGA",
+			"cz": "Mezinárodní všeobecné letectví",
+			"en": "International general aviation"
+		},
+		{
+			"abbr": "ILS",
+			"cz": "Systém pro přesné přiblížení a přistání",
+			"en": "Instrument landing system"
+		},
+		{
+			"abbr": "IM",
+			"cz": "Vnitřní polohové návěstidlo (75 MHz)",
+			"en": "Inner marker"
+		},
+		{
+			"abbr": "IMC",
+			"cz": "Meteorologické podmínky pro let podle přístrojů",
+			"en": "Instrument meteorological conditions"
+		},
+		{
+			"abbr": "IMG",
+			"cz": "Imigrace, kontrola osob",
+			"en": "Immigration"
+		},
+		{
+			"abbr": "IMPR",
+			"cz": "Zlepšit, zlepšuje se nebo zlepšující se",
+			"en": "Improve or improving"
+		},
+		{
+			"abbr": "IMT",
+			"cz": "Okamžitý nebo okamžitě",
+			"en": "Immediate or immediately"
+		},
+		{
+			"abbr": "INA",
+			"cz": "Počáteční přiblížení",
+			"en": "Initial approach"
+		},
+		{
+			"abbr": "INBD",
+			"cz": "Přilétající, směr příletu",
+			"en": "Inbound"
+		},
+		{
+			"abbr": "INC",
+			"cz": "V oblacích",
+			"en": "In cloud"
+		},
+		{
+			"abbr": "INCERFA",
+			"cz": "Údobí nejistoty",
+			"en": "Uncertainty phase"
+		},
+		{
+			"abbr": "INFO",
+			"cz": "Informace",
+			"en": "Information"
+		},
+		{
+			"abbr": "INOP",
+			"cz": "Nepracující, nečinný",
+			"en": "Inoperative"
+		},
+		{
+			"abbr": "INP",
+			"cz": "Není−li možné",
+			"en": "If not possible"
+		},
+		{
+			"abbr": "INPR",
+			"cz": "V běhu, probíhá",
+			"en": "In progress"
+		},
+		{
+			"abbr": "INS",
+			"cz": "Inerční navigační systém",
+			"en": "Inertial navigation system"
+		},
+		{
+			"abbr": "INSTL",
+			"cz": "Zavést, instalovat nebo zavedeno, instalováno nebo zavedení, instalace",
+			"en": "Install or installed or installation"
+		},
+		{
+			"abbr": "INSTR",
+			"cz": "Přístrojový, přístroj",
+			"en": "Instrument"
+		},
+		{
+			"abbr": "INT",
+			"cz": "Křižovatka, průsečík",
+			"en": "Intersection"
+		},
+		{
+			"abbr": "INTL",
+			"cz": "Mezinárodní",
+			"en": "International"
+		},
+		{
+			"abbr": "INTRG",
+			"cz": "Dotazovač",
+			"en": "Interrogator"
+		},
+		{
+			"abbr": "INTRP",
+			"cz": "Přerušit nebo přerušení nebo přerušený, přerušující se",
+			"en": "Interrupt or interruption or interrupted"
+		},
+		{
+			"abbr": "INTSF",
+			"cz": "Sílit nebo sílící",
+			"en": "Intensify or intensifying"
+		},
+		{
+			"abbr": "INTST",
+			"cz": "Intenzita",
+			"en": "Intensity"
+		},
+		{
+			"abbr": "IR",
+			"cz": "Led na RWY",
+			"en": "Ice on runway"
+		},
+		{
+			"abbr": "ISA",
+			"cz": "Mezinárodní standardní atmosféra",
+			"en": "International standard atmosphere"
+		},
+		{
+			"abbr": "ISO*",
+			"cz": "Mezinárodní organizace pro standardizaci",
+			"en": "International organisation for standartisation"
+		},
+		{
+			"abbr": "ISOL",
+			"cz": "Osamocený, izolovaný",
+			"en": "Isolated"
+		},
+		{
+			"abbr": "JAA*",
+			"cz": "Sdružené letecké úřady",
+			"en": "Joint Aviation Authorities"
+		},
+		{
+			"abbr": "JAN",
+			"cz": "Leden",
+			"en": "January"
+		},
+		{
+			"abbr": "JAR*",
+			"cz": "Společné letecké předpisy",
+			"en": "Joint Aviation Requirements"
+		},
+		{
+			"abbr": "JTST",
+			"cz": "Jet stream",
+			"en": "Jet stream"
+		},
+		{
+			"abbr": "JUL",
+			"cz": "Červenec",
+			"en": "July"
+		},
+		{
+			"abbr": "JUN",
+			"cz": "Červen",
+			"en": "June"
+		},
+		{
+			"abbr": "KG",
+			"cz": "Kilogram − jednotka hmotnosti",
+			"en": "Kilogrammes"
+		},
+		{
+			"abbr": "KHZ",
+			"cz": "Kilohertz",
+			"en": "Kilohertz"
+		},
+		{
+			"abbr": "KM",
+			"cz": "Kilometr",
+			"en": "Kilometres"
+		},
+		{
+			"abbr": "KMH",
+			"cz": "Kilometr za hodinu",
+			"en": "Kilometres per hour"
+		},
+		{
+			"abbr": "KPA",
+			"cz": "Kilopascal",
+			"en": "Kilopascal"
+		},
+		{
+			"abbr": "KT",
+			"cz": "Knot, uzel",
+			"en": "Knots"
+		},
+		{
+			"abbr": "KW",
+			"cz": "Kilowatts",
+			"en": "Kilowatts"
+		},
+		{
+			"abbr": "...L",
+			"cz": "Levá (poznávací číslo před znakem slouží k identifikaci paralelní RWY)",
+			"en": "Left (preceded by runway designation number to identify a parallel runway)"
+		},
+		{
+			"abbr": "L",
+			"cz": "Polohový radiomaják (viz LO, LM)",
+			"en": "Locator (see LM, LO)"
+		},
+		{
+			"abbr": "LAM",
+			"cz": "Logické potvrzení (označení druhu zprávy)",
+			"en": "Logical acknowledgement (message type designator)"
+		},
+		{
+			"abbr": "LARS*",
+			"cz": "Systém pro rezervaci místní činnosti",
+			"en": "Local Activity Reservation System"
+		},
+		{
+			"abbr": "LAT",
+			"cz": "Zeměpisná šířka",
+			"en": "Latitude"
+		},
+		{
+			"abbr": "LCA",
+			"cz": "Místní nebo místně nebo místo, umístění nebo umístěný",
+			"en": "Local or locally or location or located"
+		},
+		{
+			"abbr": "LDA",
+			"cz": "Použitelná délka pro přistání",
+			"en": "Landing distance available"
+		},
+		{
+			"abbr": "LDAH",
+			"cz": "Použitelná délka pro přistání vrtulníku",
+			"en": "Landing distance available, helicopter"
+		},
+		{
+			"abbr": "LDG",
+			"cz": "Přistání",
+			"en": "Landing"
+		},
+		{
+			"abbr": "LDI",
+			"cz": "Ukazatel směru přistání",
+			"en": "Landing direction indicator"
+		},
+		{
+			"abbr": "LEN",
+			"cz": "Délka",
+			"en": "Length"
+		},
+		{
+			"abbr": "LF",
+			"cz": "Dlouhé vlny (30 až 300 kHz)",
+			"en": "Low frequency (30 to 300 KHz)"
+		},
+		{
+			"abbr": "LFA (MLČ)*",
+			"cz": "Místní letová činnost",
+			"en": "Local flight activity"
+		},
+		{
+			"abbr": "LGT",
+			"cz": "Světlo, návěstidlo nebo osvětlení",
+			"en": "Light or lighting"
+		},
+		{
+			"abbr": "LGTD",
+			"cz": "Osvětlený",
+			"en": "Lighted"
+		},
+		{
+			"abbr": "LIH",
+			"cz": "Vysoká svítivost, návěstidla vysoké svítivosti",
+			"en": "Light intensity high"
+		},
+		{
+			"abbr": "LIL",
+			"cz": "Nízká svítivost, návěstidla nízké svítivosti",
+			"en": "Light intensity low"
+		},
+		{
+			"abbr": "LIM",
+			"cz": "Střední svítivost, návěstidla střední svítivosti",
+			"en": "Light intensity medium"
+		},
+		{
+			"abbr": "LM",
+			"cz": "Střední polohový radiomaják",
+			"en": "Locator, middle"
+		},
+		{
+			"abbr": "LMT",
+			"cz": "Místní střední čas",
+			"en": "Local mean time"
+		},
+		{
+			"abbr": "LNG",
+			"cz": "Dlouhé (používá se pro označení žádoucího nebo požadovaného přiblížení)",
+			"en": "Long (used to indicate the type of approach desired or required)"
+		},
+		{
+			"abbr": "LO",
+			"cz": "Vnější polohový radiomaják",
+			"en": "Locator, outer"
+		},
+		{
+			"abbr": "LOC",
+			"cz": "Kurzový maják ILS (Localizer)",
+			"en": "Localizer"
+		},
+		{
+			"abbr": "LONG",
+			"cz": "Zeměpisná délka",
+			"en": "Longitude"
+		},
+		{
+			"abbr": "LRG",
+			"cz": "Daleký dosah/dolet, s dalekým dosahem/doletem",
+			"en": "Long range"
+		},
+		{
+			"abbr": "LTD",
+			"cz": "Omezený",
+			"en": "Limited"
+		},
+		{
+			"abbr": "LV",
+			"cz": "Slabý a proměnlivý (o větru)",
+			"en": "Light and variable (relating to wind)"
+		},
+		{
+			"abbr": "LVE",
+			"cz": "Opustit nebo opuštění",
+			"en": "Leave or leaving"
+		},
+		{
+			"abbr": "LVL",
+			"cz": "Hladina, úroveň",
+			"en": "Level"
+		},
+		{
+			"abbr": "LVP",
+			"cz": "Postupy za nízké dohlednosti",
+			"en": "Low Visibility Procedures"
+		},
+		{
+			"abbr": "LYR",
+			"cz": "Vrstva nebo rozvrstvený, vrstevnatý",
+			"en": "Layer or layered"
+		},
+		{
+			"abbr": "LVTO",
+			"cz": "Vzlety za nízké dohlednosti",
+			"en": "Low Visibility Take−Off"
+		},
+		{
+			"abbr": "LZS*",
+			"cz": "Letecká záchranná služba",
+			"en": "Air rescue service"
+		},
+		{
+			"abbr": "M",
+			"cz": "Machovo číslo (před číselným údajem)",
+			"en": "Mach number (followed by figures)"
+		},
+		{
+			"abbr": "M",
+			"cz": "Metr (za číselným údajem)",
+			"en": "Metres (preceded by figures)"
+		},
+		{
+			"abbr": "MAA",
+			"cz": "Nejvyšší schválená nadmořská výška",
+			"en": "Maximum authorized altitude"
+		},
+		{
+			"abbr": "MAG",
+			"cz": "Magnetický",
+			"en": "Magnetic"
+		},
+		{
+			"abbr": "MAINT",
+			"cz": "Údržba",
+			"en": "Maintenance"
+		},
+		{
+			"abbr": "MAP",
+			"cz": "Letecké mapy",
+			"en": "Aeronautical maps and charts"
+		},
+		{
+			"abbr": "MAPP*",
+			"cz": "Vojenské přibližovací stanoviště řízení letového provozu",
+			"en": "Military approach control unit"
+		},
+		{
+			"abbr": "MAPT",
+			"cz": "Bod zahájení postupu nezdařeného přiblížení",
+			"en": "Missed approach point"
+		},
+		{
+			"abbr": "MAR",
+			"cz": "Březen",
+			"en": "March"
+		},
+		{
+			"abbr": "MARO*",
+			"cz": "Vojenská ohlašovna letových provozních služeb",
+			"en": "Military air traffic services reporting office"
+		},
+		{
+			"abbr": "MAX",
+			"cz": "Maximální",
+			"en": "Maximum"
+		},
+		{
+			"abbr": "MAY",
+			"cz": "Květen",
+			"en": "May"
+		},
+		{
+			"abbr": "MCA",
+			"cz": "Minimální nadmořská výška křižování",
+			"en": "Minimum crossing altitude"
+		},
+		{
+			"abbr": "MCTR*",
+			"cz": "Vojenský řízený okrsek",
+			"en": "Military control zone"
+		},
+		{
+			"abbr": "MDA",
+			"cz": "Minimální nadmořská výška pro klesání",
+			"en": "Minimum descent altitude"
+		},
+		{
+			"abbr": "MDF",
+			"cz": "Zaměřovací stanice pracující na středních vlnách",
+			"en": "Medium frequency direction-finding station"
+		},
+		{
+			"abbr": "MDH",
+			"cz": "Minimální výška pro klesání",
+			"en": "Minimum descent height"
+		},
+		{
+			"abbr": "MEA",
+			"cz": "Minimální nadmořská výška na trati",
+			"en": "Minimum en-route altitude"
+		},
+		{
+			"abbr": "MEHT",
+			"cz": "Minimální výška očí nad prahem dráhy (pro světelnou sestupovou soustavu pro vizuální přiblížení)",
+			"en": "Minimum eye height over threshold (for visual approach slope indicator systems)"
+		},
+		{
+			"abbr": "MET",
+			"cz": "Meteorologický nebo meteorologie",
+			"en": "Meteorological or meteorology"
+		},
+		{
+			"abbr": "METAR",
+			"cz": "Pravidelná letištní meterologická zpráva (v meteorologickém kódu)",
+			"en": "Aerodrome routine meteorological report (in meteorological code)"
+		},
+		{
+			"abbr": "MET REPORT",
+			"cz": "Místní pravidelná meterologická zpráva (ve zkrácené otevřené řeči)",
+			"en": "Local routine meteorological report (in abbreviated plain language)"
+		},
+		{
+			"abbr": "MF",
+			"cz": "Střední vlny (300 až 3 000 kHz)",
+			"en": "Medium frequency (300 to 3000 KHz)"
+		},
+		{
+			"abbr": "MHDF",
+			"cz": "Zaměřovací stanice pracující na středních a krátkých vlnách (ve stejné poloze)",
+			"en": "Medium and high frequency direction-finding stations (at the same location)"
+		},
+		{
+			"abbr": "MHVDF",
+			"cz": "Zaměřovací stanice pracující na středních, krátkých a velmi krátkých vlnách (ve stejné poloze)",
+			"en": "Medium, high and very high frequency direction-finding stations (at the same location)"
+		},
+		{
+			"abbr": "MHZ",
+			"cz": "Megahertz",
+			"en": "Megahertz"
+		},
+		{
+			"abbr": "MID",
+			"cz": "Střed RWY (vztaženo k RVR)",
+			"en": "Mid-point (related to RVR)"
+		},
+		{
+			"abbr": "MID*",
+			"cz": "Střední a dálný východ",
+			"en": "Middle and Far−East"
+		},
+		{
+			"abbr": "MIFG",
+			"cz": "Přízemní mlha",
+			"en": "Shallow fog"
+		},
+		{
+			"abbr": "MIL",
+			"cz": "Vojenský",
+			"en": "Military"
+		},
+		{
+			"abbr": "MIN",
+			"cz": "Minuta",
+			"en": "Minutes"
+		},
+		{
+			"abbr": "MKR",
+			"cz": "Rádiové návěstidlo 75 MHz",
+			"en": "Marker radio beacon"
+		},
+		{
+			"abbr": "MLAT*",
+			"cz": "Multilaterace",
+			"en": "Multilateration"
+		},
+		{
+			"abbr": "MLČ (LFA)*",
+			"cz": "Místní letová činnost",
+			"en": "Local flight activity"
+		},
+		{
+			"abbr": "MLS",
+			"cz": "Mikrovlnný přistávací systém",
+			"en": "Microwave landing system"
+		},
+		{
+			"abbr": "MM*",
+			"cz": "Střední polohové návěstidlo",
+			"en": "Middle marker"
+		},
+		{
+			"abbr": "MNM",
+			"cz": "Minimální, minimum",
+			"en": "Minimum"
+		},
+		{
+			"abbr": "MNPS",
+			"cz": "Specifikace minimální navigační výkonnosti",
+			"en": "Minimum navigation performance specifications"
+		},
+		{
+			"abbr": "MNTN",
+			"cz": "Udržovat",
+			"en": "Maintain"
+		},
+		{
+			"abbr": "MOA",
+			"cz": "Vojenský provozní prostor",
+			"en": "Military operating area"
+		},
+		{
+			"abbr": "MOC",
+			"cz": "Minimální výška nad překážkami (požadovaná)",
+			"en": "Minimum obstacle clearance (required)"
+		},
+		{
+			"abbr": "MOD",
+			"cz": "Mírný, střední (používá se k indikaci intenzity jevů počasí, vlivu nebo k oznámení statického stavu, např. MOD RA = mírný déšt’)",
+			"en": "Moderate (used to indicate the intensity of weather phenomena, interference or static reports, e.g. MOD RA=moderate rain)"
+		},
+		{
+			"abbr": "MON",
+			"cz": "Pondělí",
+			"en": "Monday"
+		},
+		{
+			"abbr": "MOPS",
+			"cz": "Standardy minimální provozní výkonnosti",
+			"en": "Minimum operational performance standards"
+		},
+		{
+			"abbr": "MOTNE",
+			"cz": "Evropská meteorologická provozní telekomunikační sít’",
+			"en": "Meteorological Operational Telecommunications Network Europe"
+		},
+		{
+			"abbr": "MOV",
+			"cz": "Pohybovat se nebo pohybující se nebo pohyb, pohybový",
+			"en": "Move or moving or movement"
+		},
+		{
+			"abbr": "MPS",
+			"cz": "Metry za sekundu",
+			"en": "Metres per second"
+		},
+		{
+			"abbr": "MRA",
+			"cz": "Minimální nadmořská výška příjmu",
+			"en": "Minimum reception altitude"
+		},
+		{
+			"abbr": "MRG",
+			"cz": "Střední dosah (dolet), se středním dosahem (doletem)",
+			"en": "Medium range"
+		},
+		{
+			"abbr": "MRP",
+			"cz": "Hlásný bod ATS/MET",
+			"en": "ATS/MET reporting point"
+		},
+		{
+			"abbr": "MRVA*",
+			"cz": "Minimální nadmořská výška pro radarové vektorování",
+			"en": "Minimum radar vectoring altitude"
+		},
+		{
+			"abbr": "MS",
+			"cz": "Minus",
+			"en": "Minus"
+		},
+		{
+			"abbr": "MSA",
+			"cz": "Minimální sektorová nadmořská výška",
+			"en": "Minimum sector altitude"
+		},
+		{
+			"abbr": "MSG",
+			"cz": "Zpráva",
+			"en": "Message"
+		},
+		{
+			"abbr": "MSL",
+			"cz": "Střední hladina moře",
+			"en": "Mean sea level"
+		},
+		{
+			"abbr": "MTMA*",
+			"cz": "Vojenská koncová řízená oblast",
+			"en": "Military terminal control area"
+		},
+		{
+			"abbr": "MTOM*",
+			"cz": "Maximální vzletová hmotnost",
+			"en": "Maximum take−off mass"
+		},
+		{
+			"abbr": "MTOW*",
+			"cz": "Maximální vzletová hmotnost",
+			"en": "Maximum take−off weight"
+		},
+		{
+			"abbr": "MTU",
+			"cz": "Metrické jednotky",
+			"en": "Metric units"
+		},
+		{
+			"abbr": "MTW",
+			"cz": "Horská vlna",
+			"en": "Mountain waves"
+		},
+		{
+			"abbr": "MTWR*",
+			"cz": "Vojenská letištní řídící věž",
+			"en": "Military aerodrome control tower"
+		},
+		{
+			"abbr": "MVDF",
+			"cz": "Zaměřovací stanice pracující na středních a velmi krátkých vlnách (ve stejné poloze)",
+			"en": "Medium and very high frequency direction-finding stations (at the same locations)"
+		},
+		{
+			"abbr": "MWO",
+			"cz": "Meteorologická výstražná služba",
+			"en": "Meteorological watch office"
+		},
+		{
+			"abbr": "MX",
+			"cz": "Smíšený druh námrazy (bílá námraza s ledovkou)",
+			"en": "Mixed type of ice formation (white and clear)"
+		},
+		{
+			"abbr": "N",
+			"cz": "Sever nebo severní zeměpisná šířka",
+			"en": "North or northern latitude"
+		},
+		{
+			"abbr": "N",
+			"cz": "Bez význačných změn (hodnoty RVR za posledních 10 minut)",
+			"en": "No distinct tendency (in RVR during previous 10 minutes)"
+		},
+		{
+			"abbr": "NaPoSy PVO ČR*",
+			"cz": "Národní posilový systém protivzdušné obrany ČR",
+			"en": "National Reinforcing Air Defence System of the Czech Republic"
+		},
+		{
+			"abbr": "NAT",
+			"cz": "Severní Atlantik",
+			"en": "North Atlantic"
+		},
+		{
+			"abbr": "NATINAMDS*",
+			"cz": "Integrovaný systém protivzdušné a protiraketové obrany NATO",
+			"en": "NATO Integrated Air and Missile Defence System"
+		},
+		{
+			"abbr": "NATO*",
+			"cz": "Severoatlantická aliance",
+			"en": "North Atlantic Treaty Organization"
+		},
+		{
+			"abbr": "NAV",
+			"cz": "Navigace",
+			"en": "Navigation"
+		},
+		{
+			"abbr": "NB",
+			"cz": "Severním směrem",
+			"en": "Northbound"
+		},
+		{
+			"abbr": "NC",
+			"cz": "Beze změn",
+			"en": "No change"
+		},
+		{
+			"abbr": "NDB",
+			"cz": "Nesměrový radiomaják",
+			"en": "Non-directional radio beacon"
+		},
+		{
+			"abbr": "NE",
+			"cz": "Severovýchod",
+			"en": "North-east"
+		},
+		{
+			"abbr": "NEB",
+			"cz": "Severovýchodním směrem",
+			"en": "North-eastbound"
+		},
+		{
+			"abbr": "NEG",
+			"cz": "Ne nebo zápor, záporný nebo povolení není dáno nebo to není správně",
+			"en": "No or negative or permission not granted or that is not correct"
+		},
+		{
+			"abbr": "NGT",
+			"cz": "Noc",
+			"en": "Night"
+		},
+		{
+			"abbr": "NIL",
+			"cz": "Žádný nebo nemám nic co bych vám poslal",
+			"en": "None or I have nothing to send to you"
+		},
+		{
+			"abbr": "NM",
+			"cz": "Námořní míle",
+			"en": "Nautical miles"
+		},
+		{
+			"abbr": "NMOC*",
+			"cz": "Operační středisko manažera sítě − EUROCONTROL",
+			"en": "Network Manager Operations Centre"
+		},
+		{
+			"abbr": "NML",
+			"cz": "Normální",
+			"en": "Normal"
+		},
+		{
+			"abbr": "NNE",
+			"cz": "Severoseverovýchod",
+			"en": "North-north-east"
+		},
+		{
+			"abbr": "NNW",
+			"cz": "Severoseverozápad",
+			"en": "North-north-west"
+		},
+		{
+			"abbr": "NOF",
+			"cz": "Mezinárodní kancelář NOTAM",
+			"en": "International NOTAM office"
+		},
+		{
+			"abbr": "NOSIG",
+			"cz": "Bez význačné změny (používá se v předpovědích typu TREND)",
+			"en": "No significant change (used in trend-type landing forecasts)"
+		},
+		{
+			"abbr": "NOTAM",
+			"cz": "Oznámení rozšiřované telekominikačními prostředky, obsahující informaci o zřízení, stavu nebo změně kteréhokoli leteckého zařízení, služby nebo postupů, nebo o nezbezpečí, jejichž včasná znalost je nezbytná pro pracovníky, kteřá se zabývají letovým provozem",
+			"en": "A notice distributed by means of telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerning with flight operations"
+		},
+		{
+			"abbr": "NOV",
+			"cz": "Listopad",
+			"en": "November"
+		},
+		{
+			"abbr": "NPZ*",
+			"cz": "Neplánovatelná zóna",
+			"en": "No planning zone"
+		},
+		{
+			"abbr": "NR",
+			"cz": "Číslo",
+			"en": "Number"
+		},
+		{
+			"abbr": "NS",
+			"cz": "Nimbostratus",
+			"en": "Nimbostratus"
+		},
+		{
+			"abbr": "NSC",
+			"cz": "Žádná význačná oblačnost",
+			"en": "Nil significant cloud"
+		},
+		{
+			"abbr": "NSW",
+			"cz": "Žádné význačné jevy počasí",
+			"en": "Nil significant weather"
+		},
+		{
+			"abbr": "NW",
+			"cz": "Severozápad",
+			"en": "North-west"
+		},
+		{
+			"abbr": "NWB",
+			"cz": "Severozápadním směrem",
+			"en": "North-westbound"
+		},
+		{
+			"abbr": "NXT",
+			"cz": "Příští, následující, další",
+			"en": "Next"
+		},
+		{
+			"abbr": "OAC",
+			"cz": "Oceánské oblastní středisko řízení",
+			"en": "Oceanic area control centre"
+		},
+		{
+			"abbr": "OAS",
+			"cz": "Stanovená překážková rovina",
+			"en": "Obstacle assessment surface"
+		},
+		{
+			"abbr": "OAT*",
+			"cz": "Let prováděné podle jiných pravidel než ICAO, bez ohledu na rezortní nebo státní příslušnost",
+			"en": "Operational air traffic"
+		},
+		{
+			"abbr": "OBS",
+			"cz": "Pozorovat nebo pozorováno nebo pozorování",
+			"en": "Observe or observed or observation"
+		},
+		{
+			"abbr": "OBSC",
+			"cz": "Zastřít nebo zastřený nebo zastírající",
+			"en": "Obscure or obscured or obscuring"
+		},
+		{
+			"abbr": "OBST",
+			"cz": "Překážka",
+			"en": "Obstacle"
+		},
+		{
+			"abbr": "OCA",
+			"cz": "Bezpečná nadmořská výška nad překážkami",
+			"en": "Obstacle clearance altitude"
+		},
+		{
+			"abbr": "OCA",
+			"cz": "Oceánská řízená oblast",
+			"en": "Oceanic control area"
+		},
+		{
+			"abbr": "OCH",
+			"cz": "Bezpečná výška nad překážkami",
+			"en": "Obstacle clearance height"
+		},
+		{
+			"abbr": "OCL*",
+			"cz": "Minimální bezpečná výška nad překážkami",
+			"en": "Obstacle clearance limit"
+		},
+		{
+			"abbr": "OCNL",
+			"cz": "Příležitostný, místní nebo příležitostně, místy",
+			"en": "Occasional or occasionally"
+		},
+		{
+			"abbr": "OCS",
+			"cz": "Překážková rovina",
+			"en": "Obstacle clearance surface"
+		},
+		{
+			"abbr": "OCT",
+			"cz": "Říjen",
+			"en": "October"
+		},
+		{
+			"abbr": "OFZ",
+			"cz": "Bezpřekážkový prostor",
+			"en": "Obstacle free zone"
+		},
+		{
+			"abbr": "OHD",
+			"cz": "Nacházet se nad",
+			"en": "Overhead"
+		},
+		{
+			"abbr": "OLDI",
+			"cz": "Výměna dat on−line",
+			"en": "On-line data interchange"
+		},
+		{
+			"abbr": "OM",
+			"cz": "Vnější polohové návěstidlo",
+			"en": "Outer marker"
+		},
+		{
+			"abbr": "OPA",
+			"cz": "Bílá námraza",
+			"en": "Opaque, white type of ice formation"
+		},
+		{
+			"abbr": "OPC",
+			"cz": "Operační dispečink letecké dopravy",
+			"en": "Control indicated is operational control"
+		},
+		{
+			"abbr": "OPMET",
+			"cz": "Meteorologické informace sloužící k zabezpečení letového provozu",
+			"en": "Operational meteorological (information)"
+		},
+		{
+			"abbr": "OPN",
+			"cz": "Otevírat nebo otevírající nebo otevřený",
+			"en": "Open or opening or opened"
+		},
+		{
+			"abbr": "OPR",
+			"cz": "Provozovatel nebo provozovat nebo činný, provozní nebo pracovat, býti činný nebo operační, provozní",
+			"en": "Operator or operate or operative or operating or operational"
+		},
+		{
+			"abbr": "OPS",
+			"cz": "Provoz, lety",
+			"en": "Operations"
+		},
+		{
+			"abbr": "O/R",
+			"cz": "Na vyžádání",
+			"en": "On request"
+		},
+		{
+			"abbr": "OTLK",
+			"cz": "Vyhlídka",
+			"en": "Outlook"
+		},
+		{
+			"abbr": "OTP",
+			"cz": "Nad oblaky (těsně)",
+			"en": "On top"
+		},
+		{
+			"abbr": "OTS",
+			"cz": "Systém organizovaných tratí",
+			"en": "Organized track system"
+		},
+		{
+			"abbr": "OUBD",
+			"cz": "Vylétávající, směr odletu",
+			"en": "Outbound"
+		},
+		{
+			"abbr": "OVC",
+			"cz": "Zataženo",
+			"en": "Overcast"
+		},
+		{
+			"abbr": "P*",
+			"cz": "Výšková předpovědní mapa",
+			"en": "Prognostic upper air chart"
+		},
+		{
+			"abbr": "P*",
+			"cz": "Osobní konzultace",
+			"en": "Personal consultation"
+		},
+		{
+			"abbr": "P...",
+			"cz": "Zakázaný prostor (následuje označení prostoru)",
+			"en": "Prohibited area (followed by identification)"
+		},
+		{
+			"abbr": "PA",
+			"cz": "Přesné přiblížení",
+			"en": "Precision approach"
+		},
+		{
+			"abbr": "PALS",
+			"cz": "Světelná soustava pro přesné přiblížení (uvést kategorii)",
+			"en": "Precision approach lighting system (specify category)"
+		},
+		{
+			"abbr": "PANS",
+			"cz": "Postupy pro letové navigační služby",
+			"en": "Procedures for air navigation services"
+		},
+		{
+			"abbr": "PAPI",
+			"cz": "Světelná soustava indikace sestupové roviny pro přesné přiblížení",
+			"en": "Precision approach path indicator"
+		},
+		{
+			"abbr": "PAR",
+			"cz": "Přesný přibližovací radar",
+			"en": "Precision approach radar"
+		},
+		{
+			"abbr": "PARL",
+			"cz": "Paralelní",
+			"en": "Parallel"
+		},
+		{
+			"abbr": "PATC",
+			"cz": "Terénní mapa pro přesné přiblížení (následováno jménem/názvem)",
+			"en": "Precision approach terrain chart (followed by name/title)"
+		},
+		{
+			"abbr": "PAX",
+			"cz": "Cestující",
+			"en": "Passenger(s)"
+		},
+		{
+			"abbr": "PCD",
+			"cz": "Postupovat, pokračovat nebo postupující",
+			"en": "Proceed or proceeding"
+		},
+		{
+			"abbr": "PCL",
+			"cz": "Osvětlení ovládané pilotem",
+			"en": "Pilot-controlled lighting"
+		},
+		{
+			"abbr": "PCN",
+			"cz": "Klasifikační číslo vozovky",
+			"en": "Pavement classification number"
+		},
+		{
+			"abbr": "PDC*",
+			"cz": "Mapa pro stání/zajíždění letadla",
+			"en": "Aircraft parking/docking chart"
+		},
+		{
+			"abbr": "PDG",
+			"cz": "Návrhový gradient pro daný postup",
+			"en": "Procedure design gradient"
+		},
+		{
+			"abbr": "PER",
+			"cz": "Výkonnost",
+			"en": "Performance"
+		},
+		{
+			"abbr": "PERM",
+			"cz": "Stálý, permanentní",
+			"en": "Permanent"
+		},
+		{
+			"abbr": "PG/HG (PK/ZK)*",
+			"cz": "Padákový kluzák / závěsný kluzák",
+			"en": "parachute glider / hang glider"
+		},
+		{
+			"abbr": "PGZ*",
+			"cz": "paragliding zone − prostor pro navijákové a odvijákové starty padákových a závěsných kluzáků",
+			"en": "paragliding zone − area for tow winch of parachute and hang glider"
+		},
+		{
+			"abbr": "PIB",
+			"cz": "Předletový informační bulletin",
+			"en": "Pre-flight information bulletin"
+		},
+		{
+			"abbr": "PJE",
+			"cz": "Provádění padákového výsadku",
+			"en": "Parachute jumping exercise"
+		},
+		{
+			"abbr": "PL",
+			"cz": "Zmrzlý déšt’",
+			"en": "Ice pellets"
+		},
+		{
+			"abbr": "PL*",
+			"cz": "Texty ve zkrácené otevřené řeči",
+			"en": "Abbreviated plain language texts"
+		},
+		{
+			"abbr": "PLA",
+			"cz": "Cvičné nízké přiblížení",
+			"en": "Practice low approach"
+		},
+		{
+			"abbr": "PLN",
+			"cz": "Letový plán",
+			"en": "Flight plan"
+		},
+		{
+			"abbr": "PLVL",
+			"cz": "Současná hladina",
+			"en": "Present level"
+		},
+		{
+			"abbr": "PN",
+			"cz": "Vyžaduje se předběžné oznámení",
+			"en": "Prior notice required"
+		},
+		{
+			"abbr": "PNR",
+			"cz": "Mezní bod návratu",
+			"en": "Point of no return"
+		},
+		{
+			"abbr": "PO",
+			"cz": "Prachové/písečné víry",
+			"en": "Dust devils"
+		},
+		{
+			"abbr": "POB",
+			"cz": "Osoby na palubě",
+			"en": "Persons on board"
+		},
+		{
+			"abbr": "POSS",
+			"cz": "Možný",
+			"en": "Possible"
+		},
+		{
+			"abbr": "PPI",
+			"cz": "Radarový indikátor pro přehledové zobrazení",
+			"en": "Plan position indicator"
+		},
+		{
+			"abbr": "PPR",
+			"cz": "Vyžaduje se předběžné povolení",
+			"en": "Prior permission required"
+		},
+		{
+			"abbr": "PPSN",
+			"cz": "Současná poloha",
+			"en": "Present position"
+		},
+		{
+			"abbr": "PRFG",
+			"cz": "Letiště částečně zakryto mlhou",
+			"en": "Aerodrome partially covered by fog"
+		},
+		{
+			"abbr": "PRI",
+			"cz": "Prvotní, základní",
+			"en": "Primary"
+		},
+		{
+			"abbr": "PRKG",
+			"cz": "Parkovací, parkování",
+			"en": "Parking"
+		},
+		{
+			"abbr": "PROB",
+			"cz": "Pravděpodobnost",
+			"en": "Probability"
+		},
+		{
+			"abbr": "PROC",
+			"cz": "Postup",
+			"en": "Procedure"
+		},
+		{
+			"abbr": "PROV",
+			"cz": "Prozatimní",
+			"en": "Provisional"
+		},
+		{
+			"abbr": "PS",
+			"cz": "Plus, kladný",
+			"en": "Plus"
+		},
+		{
+			"abbr": "PSG",
+			"cz": "Proletět, minout, minutí",
+			"en": "Passing"
+		},
+		{
+			"abbr": "PSN",
+			"cz": "Poloha",
+			"en": "Position"
+		},
+		{
+			"abbr": "PSR",
+			"cz": "Primární přehledový radar",
+			"en": "Primary surveillance radar"
+		},
+		{
+			"abbr": "PTN",
+			"cz": "Předpisová zatáčka",
+			"en": "Procedure turn"
+		},
+		{
+			"abbr": "PWR",
+			"cz": "Výkon",
+			"en": "Power"
+		},
+		{
+			"abbr": "QDM",
+			"cz": "Magnetický kurs (pro bezvětří)",
+			"en": "Magnetic heading (zero wind)"
+		},
+		{
+			"abbr": "QDR",
+			"cz": "Magnetický směrník",
+			"en": "Magnetic bearing"
+		},
+		{
+			"abbr": "QFE",
+			"cz": "Atmosferický tlak vztažený k výšce letiště nad mořem (nebo prahu dráhy)",
+			"en": "Atmospheric pressure at aerodrome elevation (or at runway threshold)"
+		},
+		{
+			"abbr": "QFU",
+			"cz": "Magnetický směr RWY",
+			"en": "Magnetic orientation of runway"
+		},
+		{
+			"abbr": "QNH",
+			"cz": "Nastavení tlakové stupnice výškoměru pro získání výšky nad mořem bodu, který je na zemi",
+			"en": "Altimeter sub-scale setting to obtain elevation when on the ground"
+		},
+		{
+			"abbr": "QTE",
+			"cz": "Zeměpisný směrník",
+			"en": "True bearing"
+		},
+		{
+			"abbr": "QUAD",
+			"cz": "Kvadrant",
+			"en": "Quadrant"
+		},
+		{
+			"abbr": "R",
+			"cz": "Červený",
+			"en": "Red"
+		},
+		{
+			"abbr": "... R",
+			"cz": "Pravá (poznávací číslo před znakem slouží k identifikaci paralelní RWY)",
+			"en": "Right (preceded by runway designation number to identify a parallel runway)"
+		},
+		{
+			"abbr": "R...",
+			"cz": "Omezený prostor (následuje označení prostoru)",
+			"en": "Restricted area (followed by identification)"
+		},
+		{
+			"abbr": "RA",
+			"cz": "Déšt’",
+			"en": "Rain"
+		},
+		{
+			"abbr": "RAC",
+			"cz": "Pravidla létání a letové provozní služby",
+			"en": "Rules of the air and air traffic services"
+		},
+		{
+			"abbr": "RADIM*",
+			"cz": "Radiový informační maják",
+			"en": "Radio Information Beacon"
+		},
+		{
+			"abbr": "RADV*",
+			"cz": "Mapa minimálních nadmořských výšek pro radarové vektorování",
+			"en": "Minimum radar vectoring altitude chart"
+		},
+		{
+			"abbr": "RAG",
+			"cz": "Potrhaný",
+			"en": "Ragged"
+		},
+		{
+			"abbr": "RAG",
+			"cz": "Dráhové záchytné zařízení",
+			"en": "Runway arresting gear"
+		},
+		{
+			"abbr": "RAI",
+			"cz": "Ukazatel směru/polohy RWY",
+			"en": "Runway alignment indicator"
+		},
+		{
+			"abbr": "RAIM",
+			"cz": "Autonomní monitorování integrity přijímače",
+			"en": "Receiver autonomous integrity monitoring"
+		},
+		{
+			"abbr": "RB",
+			"cz": "Záchranný člun",
+			"en": "Rescue boat"
+		},
+		{
+			"abbr": "RCA",
+			"cz": "Dosáhněte cestovní výšky",
+			"en": "Reach cruising altitude"
+		},
+		{
+			"abbr": "RCC",
+			"cz": "Záchranné koordinační středisko",
+			"en": "Rescue coordination centre"
+		},
+		{
+			"abbr": "RCF",
+			"cz": "Ztráta spojení (označení druhu zprávy)",
+			"en": "Radiocommunication failure (message type designator)"
+		},
+		{
+			"abbr": "RCH",
+			"cz": "Dosáhnout nebo dosažení",
+			"en": "Reach or reaching"
+		},
+		{
+			"abbr": "RCL",
+			"cz": "Osa RWY",
+			"en": "Runway centre line"
+		},
+		{
+			"abbr": "RCLL",
+			"cz": "Osová návěstidla RWY",
+			"en": "Runway centre line light(s)"
+		},
+		{
+			"abbr": "RCLR",
+			"cz": "Změna vydaného povolení, znovupovoleno",
+			"en": "Recleared"
+		},
+		{
+			"abbr": "RDH",
+			"cz": "Referenční výška",
+			"en": "Reference datum height"
+		},
+		{
+			"abbr": "RDL",
+			"cz": "Radiál",
+			"en": "Radial"
+		},
+		{
+			"abbr": "RDO",
+			"cz": "Rádio",
+			"en": "Radio"
+		},
+		{
+			"abbr": "RDP",
+			"cz": "Zpracování radarových údajů",
+			"en": "Radar data processing"
+		},
+		{
+			"abbr": "RE...",
+			"cz": "Minulý, Po (pro označení meteorologických jevů, např. po dešti = RERA)",
+			"en": "Recent (used to qualify weather phenomena, e. g. RERA=recent rain)"
+		},
+		{
+			"abbr": "REC",
+			"cz": "Příjem nebo přijímač",
+			"en": "Receive or receiver"
+		},
+		{
+			"abbr": "REDL",
+			"cz": "Postranní dráhová návěstidla",
+			"en": "Runway edge light(s)"
+		},
+		{
+			"abbr": "REF",
+			"cz": "Odkaz k ... nebo vztáhněte k ...",
+			"en": "Reference to ... or refer to..."
+		},
+		{
+			"abbr": "REG",
+			"cz": "Poznávací značka letadla",
+			"en": "Registration"
+		},
+		{
+			"abbr": "REG*",
+			"cz": "Regionální",
+			"en": "Regional"
+		},
+		{
+			"abbr": "RENL",
+			"cz": "Koncová návěstidla RWY",
+			"en": "Runway end light(s)"
+		},
+		{
+			"abbr": "REP",
+			"cz": "Zpráva, hlášení nebo hlásící nebo hlásný bod",
+			"en": "Report or reporting or reporting point"
+		},
+		{
+			"abbr": "REQ",
+			"cz": "Žádost nebo požadovaný",
+			"en": "Request or requested"
+		},
+		{
+			"abbr": "RERTE",
+			"cz": "Změna trati",
+			"en": "Re-route"
+		},
+		{
+			"abbr": "RESA",
+			"cz": "Koncová bezpečnostní plocha RWY",
+			"en": "Runway end safety area"
+		},
+		{
+			"abbr": "RG",
+			"cz": "Řada (návěstidel)",
+			"en": "Range (lights)"
+		},
+		{
+			"abbr": "RHC",
+			"cz": "Pravý okruh",
+			"en": "Right-hand circuit"
+		},
+		{
+			"abbr": "RIF",
+			"cz": "Nové povolení za letu",
+			"en": "Reclearance in flight"
+		},
+		{
+			"abbr": "RL",
+			"cz": "Oznámit opuštění",
+			"en": "Report leaving"
+		},
+		{
+			"abbr": "RLA",
+			"cz": "Předat komu",
+			"en": "Relay to"
+		},
+		{
+			"abbr": "RLLS",
+			"cz": "Světelná naváděcí soustava na RWY",
+			"en": "Runway lead-in lighting system"
+		},
+		{
+			"abbr": "RMAC",
+			"cz": "Mapa radarových minimálních nadmořských výšek",
+			"en": "Radar minimum altitude chart"
+		},
+		{
+			"abbr": "RMK",
+			"cz": "Poznámka",
+			"en": "Remark"
+		},
+		{
+			"abbr": "RMZ*",
+			"cz": "Oblast s povinným rádiovým spojením",
+			"en": "Radio mandatory zone"
+		},
+		{
+			"abbr": "RNAV",
+			"cz": "Prostorová navigace (vyslovuje se \"\"AR−NAV\"\")",
+			"en": "Area navigation (to be pronounced “AR-NAV”)"
+		},
+		{
+			"abbr": "RNG",
+			"cz": "Radiový dosah",
+			"en": "Radio range"
+		},
+		{
+			"abbr": "RNP",
+			"cz": "Požadovaná navigační výkonnost",
+			"en": "Required navigation performance"
+		},
+		{
+			"abbr": "ROBEX",
+			"cz": "Regionální výměna bulletinů OPMET",
+			"en": "Regional OPMET bulletin exchange (scheme)"
+		},
+		{
+			"abbr": "ROC",
+			"cz": "Rychlost stoupání, stoupavost",
+			"en": "Rate of climb"
+		},
+		{
+			"abbr": "ROD",
+			"cz": "Rychlost klesání, klesavost",
+			"en": "Rate of descent"
+		},
+		{
+			"abbr": "ROFOR",
+			"cz": "Předpověď pro trat’ (v meteorologickém kódu)",
+			"en": "Route forecast (in meteorological code)"
+		},
+		{
+			"abbr": "RPA*",
+			"cz": "Dálkově řízené letadlo",
+			"en": "Remotely piloted aircraft"
+		},
+		{
+			"abbr": "RPAS*",
+			"cz": "Systém dálkově řízeného letadla",
+			"en": "Remotely piloted aircraft system"
+		},
+		{
+			"abbr": "RPL",
+			"cz": "Stálý letový plán",
+			"en": "Repetitive flight plan"
+		},
+		{
+			"abbr": "RPLC",
+			"cz": "Nahradit nebo nahrazený",
+			"en": "Replace or replaced"
+		},
+		{
+			"abbr": "RPS",
+			"cz": "Symbol radarové polohy",
+			"en": "Radar position symbol"
+		},
+		{
+			"abbr": "RPS*",
+			"cz": "Dálkově řídící stanice",
+			"en": "Remote pilot station"
+		},
+		{
+			"abbr": "RQMNTS",
+			"cz": "Požadavky",
+			"en": "Requirements"
+		},
+		{
+			"abbr": "RQP",
+			"cz": "Žádost o letový plán (označení druhu zprávy)",
+			"en": "Request flight plan (message type designator)"
+		},
+		{
+			"abbr": "RQS",
+			"cz": "Žádost o doplněk letového plánu (označení druhu zprávy)",
+			"en": "Request supplementary flight plan (message type designator)"
+		},
+		{
+			"abbr": "RR",
+			"cz": "Oznámit dosažení",
+			"en": "Report reaching"
+		},
+		{
+			"abbr": "RRA",
+			"cz": "Zpožděná meteorologická zpráva (nebo RRB, RRC ... atd., v pořadí) (označení druhu zprávy)",
+			"en": "Delayed meteorological message (or RRB, RRC ... etc., in sequence) (message type designator)"
+		},
+		{
+			"abbr": "RSC",
+			"cz": "Odbočka záchranného koordinačního střediska",
+			"en": "Rescue sub-centre"
+		},
+		{
+			"abbr": "RSCD",
+			"cz": "Stav povrchu RWY",
+			"en": "Runway surface condition"
+		},
+		{
+			"abbr": "RSP",
+			"cz": "Radarový odpovídač",
+			"en": "Responder beacon"
+		},
+		{
+			"abbr": "RSR",
+			"cz": "Trat’ový přehledový radar",
+			"en": "En-route surveillance radar"
+		},
+		{
+			"abbr": "RTD",
+			"cz": "Zpoždění (používá se k označení zpoždění meteorologické zprávy; označení druhu zprávy)",
+			"en": "Delayed (used to indicate delayed meteorological message; message type designator)"
+		},
+		{
+			"abbr": "RTE",
+			"cz": "Trat’",
+			"en": "Route"
+		},
+		{
+			"abbr": "RTF",
+			"cz": "Radiotelefon",
+			"en": "Radiotelephone"
+		},
+		{
+			"abbr": "RTG",
+			"cz": "Radiotelegraf",
+			"en": "Radiotelegraph"
+		},
+		{
+			"abbr": "RTHL",
+			"cz": "Prahová návěstidla",
+			"en": "Runway threshold light(s)"
+		},
+		{
+			"abbr": "RTN",
+			"cz": "Navrátit nebo navrácený nebo navrácení",
+			"en": "Return or returned or returning"
+		},
+		{
+			"abbr": "RTODAH",
+			"cz": "Použitelná délka přerušeného vzletu, vrtulníky",
+			"en": "Rejected take-off distance available, helicopter"
+		},
+		{
+			"abbr": "RTS",
+			"cz": "Návrat k činnosti, opět v provozu",
+			"en": "Return to service"
+		},
+		{
+			"abbr": "RTT",
+			"cz": "Radiodálnopis",
+			"en": "Radioteletypewriter"
+		},
+		{
+			"abbr": "RTZL",
+			"cz": "Návěstidla dotykové zóny RWY",
+			"en": "Runway touchdown zone light(s)"
+		},
+		{
+			"abbr": "RUS*",
+			"cz": "Ruský jazyk",
+			"en": "Russian language"
+		},
+		{
+			"abbr": "RUT",
+			"cz": "Standardní regionální trat’ové vysílací kmitočty",
+			"en": "Standard regional route transmitting frequencies"
+		},
+		{
+			"abbr": "RV",
+			"cz": "Záchranné plavidlo",
+			"en": "Rescue vessel"
+		},
+		{
+			"abbr": "RVR",
+			"cz": "Dráhová dohlednost",
+			"en": "Runway visual range"
+		},
+		{
+			"abbr": "RVSM*",
+			"cz": "Snížené minimum vertikálního rozstupu (300 m (1000 ft)) mezi FL 290 a FL 410",
+			"en": "Reduced vertical separation minimum (300 m (1000 ft)) between FL 290 and FL 410"
+		},
+		{
+			"abbr": "RWY",
+			"cz": "Dráha (RWY)",
+			"en": "Runway"
+		},
+		{
+			"abbr": "S*",
+			"cz": "Analýza přízemní mapy (aktuální mapa)",
+			"en": "Surface analysis (current chart)"
+		},
+		{
+			"abbr": "S",
+			"cz": "Jih nebo jižní zeměpisná šířka",
+			"en": "South or southern latitude"
+		},
+		{
+			"abbr": "SA",
+			"cz": "Písek",
+			"en": "Sand"
+		},
+		{
+			"abbr": "SALS",
+			"cz": "Jednoduchá přibližovací světelná soustava",
+			"en": "Simple approach lighting system"
+		},
+		{
+			"abbr": "SAN",
+			"cz": "Zdravotnický, sanitní",
+			"en": "Sanitary"
+		},
+		{
+			"abbr": "SAP",
+			"cz": "Co nejdříve",
+			"en": "As soon as possible"
+		},
+		{
+			"abbr": "SAR",
+			"cz": "Pátrání a záchrana",
+			"en": "Search and rescue"
+		},
+		{
+			"abbr": "SARPS",
+			"cz": "Standardy a doporučené postupy ICAO",
+			"en": "Standards and Recommended Practices (ICAO)"
+		},
+		{
+			"abbr": "SAT",
+			"cz": "Sobota",
+			"en": "Saturday"
+		},
+		{
+			"abbr": "SATCOM",
+			"cz": "Komunikace prostřednictvím satelitu",
+			"en": "Satellite communication"
+		},
+		{
+			"abbr": "SB",
+			"cz": "Jižním směrem",
+			"en": "Southbound"
+		},
+		{
+			"abbr": "SC",
+			"cz": "Stratokumulus",
+			"en": "Stratocumulus"
+		},
+		{
+			"abbr": "SCT",
+			"cz": "Polojasno",
+			"en": "Scattered"
+		},
+		{
+			"abbr": "SDBY",
+			"cz": "Čekej (na příjmu)",
+			"en": "Stand by"
+		},
+		{
+			"abbr": "SDF*",
+			"cz": "Fix postupného klesání",
+			"en": "Stepdown fix"
+		},
+		{
+			"abbr": "SDR*",
+			"cz": "Zvláštní práva čerpání",
+			"en": "Special drawing rights"
+		},
+		{
+			"abbr": "SE",
+			"cz": "Jihovýchod",
+			"en": "South-east"
+		},
+		{
+			"abbr": "SEB",
+			"cz": "Jihovýchodním směrem",
+			"en": "South-eastbound"
+		},
+		{
+			"abbr": "SEC",
+			"cz": "Sekunda",
+			"en": "Seconds"
+		},
+		{
+			"abbr": "SECT",
+			"cz": "Sektor",
+			"en": "Sector"
+		},
+		{
+			"abbr": "SEE FRA*",
+			"cz": "Jihovýchodní evropský vzdušný prostor volných tratí",
+			"en": "South East Europe Free Route Airspace"
+		},
+		{
+			"abbr": "SELCAL",
+			"cz": "Systém výběrového volání",
+			"en": "Selective calling system"
+		},
+		{
+			"abbr": "SEP",
+			"cz": "Září",
+			"en": "September"
+		},
+		{
+			"abbr": "SER",
+			"cz": "Služba nebo obsluha, údržba nebo obsluhovaný",
+			"en": "Service or servicing or served"
+		},
+		{
+			"abbr": "SERA*",
+			"cz": "Jednotná evropská pravidla létání",
+			"en": "Standardized European Rules of the Air"
+		},
+		{
+			"abbr": "SEV",
+			"cz": "Silná (např. označení intenzity námrazy nebo turbulence)",
+			"en": "Severe (used e.g. to qualify icing and turbulence reports)"
+		},
+		{
+			"abbr": "SFC",
+			"cz": "Povrch, plocha, přízemní",
+			"en": "Surface"
+		},
+		{
+			"abbr": "SG",
+			"cz": "Sněhová zrna",
+			"en": "Snow grains"
+		},
+		{
+			"abbr": "SGL",
+			"cz": "Signál",
+			"en": "Signal"
+		},
+		{
+			"abbr": "SH...",
+			"cz": "Přeháňka (následuje RA=déšť, SN=sníh, PL=zmrzlý déšť, GR=kroupy, GS=malé kroupy a/nebo sněhové nebo námrazové krupky nebo kombinace těchto jevů, např. SHRASN=přeháňky deště se sněhem)",
+			"en": "Showers (followed by RA=rain, SN=snow, PL=ice pellets, GR=hail, GS=small hail and/or snow pellets or combinations thereof, e.g. SHRASN=showers of rain and snow)"
+		},
+		{
+			"abbr": "SHF",
+			"cz": "Centimetrové vlny (3 000 až 30 000 MHz)",
+			"en": "Super high frequency (3 000 to 30 000 MHz)"
+		},
+		{
+			"abbr": "SID",
+			"cz": "Standardní přístrojový odlet",
+			"en": "Standard instrument departure"
+		},
+		{
+			"abbr": "SIF",
+			"cz": "Zařízení pro výběrovou identifikaci",
+			"en": "Selective identification feature"
+		},
+		{
+			"abbr": "SIGMET",
+			"cz": "Informace o meteorologických jevech na trati, které mohou ovlivnit bezpečnost letového provozu",
+			"en": "Information concerning en-route weather phenomena which may affect the safety of aircraft operations"
+		},
+		{
+			"abbr": "SIGWX*",
+			"cz": "Význačné počasí",
+			"en": "Significant weather"
+		},
+		{
+			"abbr": "SIMUL",
+			"cz": "Současný nebo současně",
+			"en": "Simultaneous or simultaneously"
+		},
+		{
+			"abbr": "SITA",
+			"cz": "Společnost pro letecké telekomunikační a informační služby",
+			"en": "Airline Telecommunication and Information Service"
+		},
+		{
+			"abbr": "SIWL",
+			"cz": "Zatížení jednoduchým osamělým kolem",
+			"en": "Single isolated wheel load"
+		},
+		{
+			"abbr": "SKC",
+			"cz": "Jasno",
+			"en": "Sky clear"
+		},
+		{
+			"abbr": "SKED",
+			"cz": "Letový řád nebo podle letového řádu, pravidelný",
+			"en": "Schedule or scheduled"
+		},
+		{
+			"abbr": "SLP",
+			"cz": "Bod počátku omezování rychlosti",
+			"en": "Speed limiting point"
+		},
+		{
+			"abbr": "S LPS*",
+			"cz": "Stanoviště letových provozních služeb",
+			"en": "Air traffic services unit"
+		},
+		{
+			"abbr": "SLW",
+			"cz": "Pomalý, pomalu",
+			"en": "Slow"
+		},
+		{
+			"abbr": "SLZ*",
+			"cz": "Sportovní létající zařízení",
+			"en": "Sport Flying Equipment"
+		},
+		{
+			"abbr": "SMC",
+			"cz": "Řízení pohybů na pohybové ploše",
+			"en": "Surface movement control"
+		},
+		{
+			"abbr": "SMR",
+			"cz": "Radar pro řízení pohybů na pohybové ploše",
+			"en": "Surface movement radar"
+		},
+		{
+			"abbr": "SN",
+			"cz": "Sníh",
+			"en": "Snow"
+		},
+		{
+			"abbr": "SNOWTAM",
+			"cz": "NOTAM zvláštní serie oznamující stanovenou formou nebezpečné podmínky na pohybové ploše, způsobené sněhem, ledem, rozbředlým sněhem nebo stojící vodou původem ze sněhu, tajícího sněhu nebo ledu nebo jejich pominutí",
+			"en": "A special series NOTAM notifying the presence or removal of hazardous conditions due to snow, ice, slush or standing water associated with snow, slush and ice on the movement area, by means of a specific format"
+		},
+		{
+			"abbr": "SPA*",
+			"cz": "Španělština",
+			"en": "Spanish language"
+		},
+		{
+			"abbr": "SPECI",
+			"cz": "Zvláštní letištní meteorologická zpráva (v meteorologickém kódu)",
+			"en": "Aerodrome special meteorological report (in meteorological code)"
+		},
+		{
+			"abbr": "SPECIAL",
+			"cz": "Místní mimořádná meteorologická zpráva (ve zkrácené otevřené řeči)",
+			"en": "Local special meteorological report (in abbreviated plain language)"
+		},
+		{
+			"abbr": "SPL",
+			"cz": "Doplněk letového plánu (označení druhu zprávy)",
+			"en": "Supplementary flight plan (message type designator)"
+		},
+		{
+			"abbr": "SPOT",
+			"cz": "Vítr v daném úseku",
+			"en": "Spot wind"
+		},
+		{
+			"abbr": "SQ",
+			"cz": "Húlava",
+			"en": "Squall"
+		},
+		{
+			"abbr": "SQL",
+			"cz": "Čára instability",
+			"en": "Squall line"
+		},
+		{
+			"abbr": "SR",
+			"cz": "Východ slunce",
+			"en": "Sunrise"
+		},
+		{
+			"abbr": "SRA",
+			"cz": "Přiblížení přehledovým radarem",
+			"en": "Surveillance radar approach"
+		},
+		{
+			"abbr": "SRE",
+			"cz": "Přehledová část systému přesného přibližovacího radaru",
+			"en": "Surveillance radar element of precision approach radar system"
+		},
+		{
+			"abbr": "SRG",
+			"cz": "Malý dosah/dolet, s malým dosahem/doletem",
+			"en": "Short range"
+		},
+		{
+			"abbr": "SRR",
+			"cz": "Oblast pátrání a záchrany",
+			"en": "Search and rescue region"
+		},
+		{
+			"abbr": "SRY",
+			"cz": "Sekundární, vedlejší, pomocný",
+			"en": "Secondary"
+		},
+		{
+			"abbr": "SS",
+			"cz": "Písečná vichřice",
+			"en": "Sandstorm"
+		},
+		{
+			"abbr": "SS",
+			"cz": "Západ slunce",
+			"en": "Sunset"
+		},
+		{
+			"abbr": "SSB",
+			"cz": "Vysílání s jedním postranním pásmem",
+			"en": "Single sideband"
+		},
+		{
+			"abbr": "SSE",
+			"cz": "Jihojihovýchod",
+			"en": "South-south-east"
+		},
+		{
+			"abbr": "SSR",
+			"cz": "Sekundární přehledový radar",
+			"en": "Secondary surveillance radar"
+		},
+		{
+			"abbr": "SST",
+			"cz": "Nadzvuková doprava",
+			"en": "Supersonic transport"
+		},
+		{
+			"abbr": "SSW",
+			"cz": "Jihojihozápad",
+			"en": "South-south-west"
+		},
+		{
+			"abbr": "ST",
+			"cz": "Stratus",
+			"en": "Stratus"
+		},
+		{
+			"abbr": "STA",
+			"cz": "Přímé přiblížení",
+			"en": "Straight in approach"
+		},
+		{
+			"abbr": "STAR",
+			"cz": "Standardní přístrojový přílet",
+			"en": "Standard instrument arrival"
+		},
+		{
+			"abbr": "STD",
+			"cz": "Standard, standardní",
+			"en": "Standard"
+		},
+		{
+			"abbr": "STF",
+			"cz": "Slohovitý, vrstevnatý",
+			"en": "Stratiform"
+		},
+		{
+			"abbr": "STN",
+			"cz": "Stanice",
+			"en": "Station"
+		},
+		{
+			"abbr": "STNR",
+			"cz": "Stacionární, stabilní",
+			"en": "Stationary"
+		},
+		{
+			"abbr": "STOL",
+			"cz": "Krátký vzlet a přistání",
+			"en": "Short take-off and landing"
+		},
+		{
+			"abbr": "STS",
+			"cz": "Statut",
+			"en": "Status"
+		},
+		{
+			"abbr": "STWL",
+			"cz": "Osová návěstidla dojezdové dráhy",
+			"en": "Stopway light(s)"
+		},
+		{
+			"abbr": "SUBJ",
+			"cz": "Podmíněný, s podmínkou, že",
+			"en": "Subject to"
+		},
+		{
+			"abbr": "SUN",
+			"cz": "Neděle",
+			"en": "Sunday"
+		},
+		{
+			"abbr": "SUP",
+			"cz": "Supplement (AIP Supplement)",
+			"en": "Supplement (AIP Supplement)"
+		},
+		{
+			"abbr": "SUPPS",
+			"cz": "Regionální doplňkové postupy",
+			"en": "Regional supplementary procedures"
+		},
+		{
+			"abbr": "SVC",
+			"cz": "Služební zpráva",
+			"en": "Service message"
+		},
+		{
+			"abbr": "SVCBL",
+			"cz": "Provozuschopný, schopný služby",
+			"en": "Serviceable"
+		},
+		{
+			"abbr": "SW",
+			"cz": "Jihozápad",
+			"en": "South-west"
+		},
+		{
+			"abbr": "SWB",
+			"cz": "Jihozápadním směrem",
+			"en": "South-westbound"
+		},
+		{
+			"abbr": "SWH*",
+			"cz": "Mapa význačného počasí pro hladiny nad FL 250",
+			"en": "Significant weather chart − high level"
+		},
+		{
+			"abbr": "SWL*",
+			"cz": "Mapa význačného počasí pro hladiny pod FL 100",
+			"en": "Significant weather chart − low level"
+		},
+		{
+			"abbr": "SWM*",
+			"cz": "Mapa význačného počasí pro hladiny mezi FL100 a FL250",
+			"en": "Significant weather chart − medium level"
+		},
+		{
+			"abbr": "SWY",
+			"cz": "Dojezdová dráha",
+			"en": "Stopway"
+		},
+		{
+			"abbr": "SZZ*",
+			"cz": "Světelné zabezpečovací zažízení",
+			"en": "Lighting system"
+		},
+		{
+			"abbr": "T",
+			"cz": "Teplota",
+			"en": "Temperature"
+		},
+		{
+			"abbr": "T*",
+			"cz": "Mapa tropopauzy",
+			"en": "Tropopause chart"
+		},
+		{
+			"abbr": "TA",
+			"cz": "Převodní nadmořská výška",
+			"en": "Transition altitude"
+		},
+		{
+			"abbr": "TACAN",
+			"cz": "Taktický letecký navigační systém UHF",
+			"en": "UHF tactical air navigation aid"
+		},
+		{
+			"abbr": "TAF",
+			"cz": "Letištní předpověď (v meteorologickém kódu)",
+			"en": "Aerodrome forecast (in meteorological code)"
+		},
+		{
+			"abbr": "TAIL",
+			"cz": "Zadní vítr",
+			"en": "Tail wind"
+		},
+		{
+			"abbr": "TAR",
+			"cz": "Přehledový radar koncové řízené oblasti nebo přehledový radar řízeného okrsku",
+			"en": "Terminal area surveillance radar"
+		},
+		{
+			"abbr": "TAS",
+			"cz": "Pravá vzdušná rychlost",
+			"en": "True airspeed"
+		},
+		{
+			"abbr": "TAX",
+			"cz": "Pojíždějící nebo pojíždějte",
+			"en": "Taxiing or taxi"
+		},
+		{
+			"abbr": "TB*",
+			"cz": "Občanské svítání",
+			"en": "Beginning of civil morning twilight"
+		},
+		{
+			"abbr": "TC",
+			"cz": "Tropický cyklon",
+			"en": "Tropical cyclone"
+		},
+		{
+			"abbr": "TCAS",
+			"cz": "Provozní výstražný protisrážkový systém",
+			"en": "Traffic alert and collision avoidance system"
+		},
+		{
+			"abbr": "TCU",
+			"cz": "Věžovitý kumulus",
+			"en": "Towering cumulus"
+		},
+		{
+			"abbr": "TDO",
+			"cz": "Tornádo",
+			"en": "Tornado"
+		},
+		{
+			"abbr": "TDZ",
+			"cz": "Dotyková zona",
+			"en": "Touchdown zone"
+		},
+		{
+			"abbr": "TE*",
+			"cz": "Občanský soumrak",
+			"en": "End of civil twilight"
+		},
+		{
+			"abbr": "TECR",
+			"cz": "Technické důvody/příčiny",
+			"en": "Technical reason"
+		},
+		{
+			"abbr": "TEL",
+			"cz": "Telefon",
+			"en": "Telephone"
+		},
+		{
+			"abbr": "TEMPO",
+			"cz": "Dočasný nebo dočasně",
+			"en": "Temporary or temporarily"
+		},
+		{
+			"abbr": "TFC",
+			"cz": "Provoz",
+			"en": "Traffic"
+		},
+		{
+			"abbr": "TGL",
+			"cz": "Letmé přistání a vzlet",
+			"en": "Touch-and-go landing"
+		},
+		{
+			"abbr": "TGL*",
+			"cz": "List dočasných pokynů",
+			"en": "Temporary Guidance Leaflet"
+		},
+		{
+			"abbr": "TGS",
+			"cz": "Pojezdová vodicí soustava",
+			"en": "Taxiing guidance system"
+		},
+		{
+			"abbr": "THR",
+			"cz": "Práh dráhy",
+			"en": "Threshold"
+		},
+		{
+			"abbr": "THRU",
+			"cz": "Po, přes",
+			"en": "Through"
+		},
+		{
+			"abbr": "THU",
+			"cz": "Čtvrtek",
+			"en": "Thursday"
+		},
+		{
+			"abbr": "TIL",
+			"cz": "Až do",
+			"en": "Until"
+		},
+		{
+			"abbr": "TIP",
+			"cz": "Až za ... (místo)",
+			"en": "Until past ... (place)"
+		},
+		{
+			"abbr": "TKOF",
+			"cz": "Vzlet",
+			"en": "Take-off"
+		},
+		{
+			"abbr": "TL...",
+			"cz": "Do (následuje čas, ve kterém předpovídaná změna počasí skončí)",
+			"en": "Till (followed by time by which weather change is forecast to end)"
+		},
+		{
+			"abbr": "TLOF",
+			"cz": "Prostor dotyku a odpoutání vrtulníku",
+			"en": "Touchdown and lift-off area"
+		},
+		{
+			"abbr": "TMA",
+			"cz": "Koncová řízená oblast",
+			"en": "Terminal control area"
+		},
+		{
+			"abbr": "TNA",
+			"cz": "Nadmořská výška zatáčky",
+			"en": "Turn altitude"
+		},
+		{
+			"abbr": "TNH",
+			"cz": "Výška zatáčky",
+			"en": "Turn height"
+		},
+		{
+			"abbr": "TO",
+			"cz": "K ... , do ... (místo)",
+			"en": "To ... (place)"
+		},
+		{
+			"abbr": "TOC",
+			"cz": "Vrchol (konec) stoupání",
+			"en": "Top of climb"
+		},
+		{
+			"abbr": "TODA",
+			"cz": "Použitelná délka vzletu",
+			"en": "Take-off distance available"
+		},
+		{
+			"abbr": "TODAH",
+			"cz": "Použitelná délka vzletu vrtulníku",
+			"en": "Take-off distance available, helicopter"
+		},
+		{
+			"abbr": "TOP",
+			"cz": "Horní hranice oblačnosti",
+			"en": "Cloud top"
+		},
+		{
+			"abbr": "TORA",
+			"cz": "Použitelná délka rozjezdu",
+			"en": "Take-off run available"
+		},
+		{
+			"abbr": "TP",
+			"cz": "Bod točení, bod zahájení točení v postupu přiblížení",
+			"en": "Turning point"
+		},
+		{
+			"abbr": "TR",
+			"cz": "Trat’",
+			"en": "Track"
+		},
+		{
+			"abbr": "TRA*",
+			"cz": "Dočasně rezervovaný prostor",
+			"en": "Temporary reserved area"
+		},
+		{
+			"abbr": "TRA GA*",
+			"cz": "Dočasně rezervovaný prostor určený pro provoz všeobecného letectví",
+			"en": "Temporary reserved area designated for operations of general aviation"
+		},
+		{
+			"abbr": "TRANS",
+			"cz": "Vysílání nebo vysílač",
+			"en": "Transmits or transmitter"
+		},
+		{
+			"abbr": "TREND",
+			"cz": "Předpověď trend",
+			"en": "Trend forecast"
+		},
+		{
+			"abbr": "TRL",
+			"cz": "Převodní hladina",
+			"en": "Transition level"
+		},
+		{
+			"abbr": "TROP",
+			"cz": "Tropopauza",
+			"en": "Tropopause"
+		},
+		{
+			"abbr": "TS",
+			"cz": "Bouřka (v letištních hlášeních a předpovědích, TS použito samostatně znamená − hřmění bylo slyšet, ale na letišti se nevyskytují žádné srážky)",
+			"en": "Thunderstorm (in aerodrome reports and forecasts, TS used alone means thunder heard but no precipitation at the aerodrome)"
+		},
+		{
+			"abbr": "TS...",
+			"cz": "Bouřka (následuje RA = déšt’, SN = sníh, PL = zmrzlý déšt, GR = kroupy, GS = malé kroupy a/nebo sněhové nebo námrazové krupky, nebo kombinace uvedených jevů, např. TSRASN = bouřka s deštěm a sněhem)",
+			"en": "Thunderstorm (followed by RA=rain, SN=snow, PL=ice pellets, GR=hail, GS=small hail and/or snow pellets or combinations thereof, e. g. TSRASN=thunderstorm with rain and snow)"
+		},
+		{
+			"abbr": "TSA*",
+			"cz": "Dočasně vyhrazený prostor",
+			"en": "Temporary segregated area"
+		},
+		{
+			"abbr": "TTO",
+			"cz": "Cílový čas přeletu regulace",
+			"en": "Target time over"
+		},
+		{
+			"abbr": "TUE",
+			"cz": "Úterý",
+			"en": "Tuesday"
+		},
+		{
+			"abbr": "TURB",
+			"cz": "Turbulence",
+			"en": "Turbulence"
+		},
+		{
+			"abbr": "TVOR",
+			"cz": "VOR koncové řízené oblasti",
+			"en": "Terminal VOR"
+		},
+		{
+			"abbr": "TWR",
+			"cz": "Letištní řídící věž nebo letištní řízení",
+			"en": "Aerodrome control tower or aerodrome control"
+		},
+		{
+			"abbr": "TWY",
+			"cz": "Pojezdová dráha",
+			"en": "Taxiway"
+		},
+		{
+			"abbr": "TWYL",
+			"cz": "Spojovací dráha",
+			"en": "Taxiway-link"
+		},
+		{
+			"abbr": "TYP",
+			"cz": "Typ letadla",
+			"en": "Type of aircraft"
+		},
+		{
+			"abbr": "TYPH",
+			"cz": "Tajfun",
+			"en": "Typhoon"
+		},
+		{
+			"abbr": "U",
+			"cz": "Vzestupná (tendence RVR v průběhu posledních 10 minut)",
+			"en": "Upward (tendency in RVR during previous 10 minutes)"
+		},
+		{
+			"abbr": "U*",
+			"cz": "Analýza výškové mapy (aktuální mapa)",
+			"en": "Upper air analysis (current chart)"
+		},
+		{
+			"abbr": "UA",
+			"cz": "Bezpilotní letadlo",
+			"en": "Unmanned aircraft"
+		},
+		{
+			"abbr": "UAB",
+			"cz": "Až do obdržení pokynů od ...",
+			"en": "Until advised by ..."
+		},
+		{
+			"abbr": "UAC",
+			"cz": "Oblastní středisko řízení horního vzdušného prostoru",
+			"en": "Upper area control centre"
+		},
+		{
+			"abbr": "UAR",
+			"cz": "Horní trat’ letových provozních služeb",
+			"en": "Upper air route"
+		},
+		{
+			"abbr": "UAS",
+			"cz": "Bezpilotní letecký systém",
+			"en": "Unmanned aircraft system"
+		},
+		{
+			"abbr": "UDF",
+			"cz": "Zaměřovací stanice pracující na ultrakrátkých vlnách",
+			"en": "Ultra high frequency direction-finding station"
+		},
+		{
+			"abbr": "UFN",
+			"cz": "Až do odvolání",
+			"en": "Until further notice"
+		},
+		{
+			"abbr": "UHDT",
+			"cz": "Nemožno výše z provozních důvodů",
+			"en": "Unable higher due traffic"
+		},
+		{
+			"abbr": "UHF",
+			"cz": "Ultrakrátké vlny (300 až 3 000 MHz)",
+			"en": "Ultra high frequency (300 to 3 000 MHz)"
+		},
+		{
+			"abbr": "UIC",
+			"cz": "Letové informační středisko pro horní vzdušný prostor",
+			"en": "Upper information centre"
+		},
+		{
+			"abbr": "UIR",
+			"cz": "Horní letová informační oblast",
+			"en": "Upper flight information region"
+		},
+		{
+			"abbr": "ULR",
+			"cz": "Ultra daleký dosah/dolet",
+			"en": "Ultra long range"
+		},
+		{
+			"abbr": "UNA",
+			"cz": "Nemožnost, neschopnost",
+			"en": "Unable"
+		},
+		{
+			"abbr": "UNAP",
+			"cz": "Nemožnost schválit, povolit, potvrdit",
+			"en": "Unable to approve"
+		},
+		{
+			"abbr": "UNL",
+			"cz": "Neomezený",
+			"en": "Unlimited"
+		},
+		{
+			"abbr": "UNREL",
+			"cz": "Nespolehlivý",
+			"en": "Unreliable"
+		},
+		{
+			"abbr": "U/S",
+			"cz": "Mimo provoz",
+			"en": "Unserviceable"
+		},
+		{
+			"abbr": "UTA",
+			"cz": "Horní řízená oblast",
+			"en": "Upper control area"
+		},
+		{
+			"abbr": "UTC",
+			"cz": "Světový koordinovaný čas",
+			"en": "Coordinated Universal Time"
+		},
+		{
+			"abbr": "UTM*",
+			"cz": "Uspořádání bezpilotního letového provozu",
+			"en": "Unmanned aircraft traffic management"
+		},
+		{
+			"abbr": "UUP*",
+			"cz": "Aktualizovaný plán využití vzdušného prostoru",
+			"en": "Update use plan"
+		},
+		{
+			"abbr": "UPS*",
+			"cz": "Nepřerušitelná dodávka energie",
+			"en": "Uninterruptible power supply"
+		},
+		{
+			"abbr": "VA",
+			"cz": "Vulkanický popel",
+			"en": "Volcanic ash"
+		},
+		{
+			"abbr": "VAC",
+			"cz": "Vizuální přibližovací mapa (následováno jménem/ názvem)",
+			"en": "Visual approach chart (followed by name/title)"
+		},
+		{
+			"abbr": "VAL",
+			"cz": "V údolích",
+			"en": "In valleys"
+		},
+		{
+			"abbr": "VAN",
+			"cz": "Karavana",
+			"en": "Runway control van"
+		},
+		{
+			"abbr": "VAR",
+			"cz": "Směrový radiomaják s opticko−akustickou indikací",
+			"en": "Visual−aural radio range"
+		},
+		{
+			"abbr": "VAR",
+			"cz": "Deklinace",
+			"en": "Magnetic variation"
+		},
+		{
+			"abbr": "VASIS",
+			"cz": "Světelná sestupová soustava pro vizuální přiblížení",
+			"en": "Visual approach slope indicator systems"
+		},
+		{
+			"abbr": "VC",
+			"cz": "V blízkosti letiště (následuje FG=mlha, FC=tromba (nálevkovitý oblak − tornádo nebo vodní smršt’), SH=přeháňka, PO=prachové/písečné víry, BLDU=zvířený prach, BLSA=zvířený písek, BLSN=zvířený sníh, DS=prachová bouře, SS=písečná bouře, TS=bouřka nebo VA=sopečný popel, např. VCFG = v blízkosti letiště mlha)",
+			"en": "Vicinity of aerodrome (followed by FG=fog, FC=funnel cloud, SH=showers, PO=dust/sand whirls, BLDU=blowing dust, BLSA=blowing sand, BLSN=blowing snow, DS=duststorm, SA=sandstorm, TS=thunderstorm or VA=volcanic ash e.g. VCFG = vicinity fog)"
+		},
+		{
+			"abbr": "VCY",
+			"cz": "Blízkost",
+			"en": "Vicinity"
+		},
+		{
+			"abbr": "VDF",
+			"cz": "Zaměřovací stanice pracující na velmi krátkých vlnách",
+			"en": "Very high frequency direction-finding station"
+		},
+		{
+			"abbr": "VDGS*",
+			"cz": "Vizuální naváděcí systém",
+			"en": "Visual Docking Guidance System"
+		},
+		{
+			"abbr": "VER",
+			"cz": "Vertikální, svislý",
+			"en": "Vertical"
+		},
+		{
+			"abbr": "VFR",
+			"cz": "Pravidla pro let za viditelnosti",
+			"en": "Visual flight rules"
+		},
+		{
+			"abbr": "VFRC*",
+			"cz": "Mapa příletů a odletů a odletů za VFR",
+			"en": "VFR Arrivals and Departures Chart"
+		},
+		{
+			"abbr": "VHF",
+			"cz": "Velmi krátké vlny (30 až 300 MHz)",
+			"en": "Very high frequency (30 to 300 MHz)"
+		},
+		{
+			"abbr": "VIP",
+			"cz": "Velmi důležitá osoba",
+			"en": "Very important person"
+		},
+		{
+			"abbr": "VIS",
+			"cz": "Dohlednost",
+			"en": "Visibility"
+		},
+		{
+			"abbr": "VLF",
+			"cz": "Velmi dlouhé vlny (3 až 30 kHz)",
+			"en": "Very low frequency (3 to 30 KHz)"
+		},
+		{
+			"abbr": "VLR",
+			"cz": "Velmi daleký dosah/dolet",
+			"en": "Very long range"
+		},
+		{
+			"abbr": "VMC",
+			"cz": "Meteorologické podmínky pro let za viditelnosti",
+			"en": "Visual meteorological conditions"
+		},
+		{
+			"abbr": "VOC",
+			"cz": "Mapa pro provoz VFR",
+			"en": "Visual operations chart"
+		},
+		{
+			"abbr": "VOLMET",
+			"cz": "Meteorologické informace pro letadlo za letu",
+			"en": "Meteorological information for aircraft in flight"
+		},
+		{
+			"abbr": "VOR",
+			"cz": "VKV všesměrový radiomaják",
+			"en": "VHF omnidirectional radio range"
+		},
+		{
+			"abbr": "VORTAC",
+			"cz": "Kombinace zařízení VOR a TACAN",
+			"en": "VOR and TACAN combination"
+		},
+		{
+			"abbr": "VOT",
+			"cz": "Zařízení pro kontrolu palubních přijímačů VOR (imitátor)",
+			"en": "VOR airborne equipment test facility"
+		},
+		{
+			"abbr": "VRB",
+			"cz": "Proměnlivý",
+			"en": "Variable"
+		},
+		{
+			"abbr": "VSA",
+			"cz": "Srovnávací navigace",
+			"en": "By visual reference to the ground"
+		},
+		{
+			"abbr": "VSP",
+			"cz": "Vertikální rychlost",
+			"en": "Vertical speed"
+		},
+		{
+			"abbr": "VTOL",
+			"cz": "Svislý vzlet a přistání",
+			"en": "Vertical take-off and landing"
+		},
+		{
+			"abbr": "W",
+			"cz": "Západ nebo západní zeměpisná délka",
+			"en": "West or western longitude"
+		},
+		{
+			"abbr": "W",
+			"cz": "Bílý",
+			"en": "White"
+		},
+		{
+			"abbr": "WAC",
+			"cz": "Letecká mapa světa − ICAO 1 : 1 000 000 (následováno jménem/názvem)",
+			"en": "World Aeronautical Chart - ICAO 1 : 1 000 000 (followed by name/title)"
+		},
+		{
+			"abbr": "WAFC",
+			"cz": "Světové oblastní předpovědní centrum",
+			"en": "World area forecast centre"
+		},
+		{
+			"abbr": "WAM*",
+			"cz": "Multilaterační přehledový systém",
+			"en": "Wide Area Multilateration System"
+		},
+		{
+			"abbr": "WB",
+			"cz": "Západním směrem",
+			"en": "Westbound"
+		},
+		{
+			"abbr": "WBAR",
+			"cz": "Návěstidla vnějších prahových polopříček",
+			"en": "Wing bar lights"
+		},
+		{
+			"abbr": "WDI",
+			"cz": "Ukazatel směru větru",
+			"en": "Wind direction indicator"
+		},
+		{
+			"abbr": "WDSPR",
+			"cz": "Rozsáhlý",
+			"en": "Widespread"
+		},
+		{
+			"abbr": "WED",
+			"cz": "Středa",
+			"en": "Wednesday"
+		},
+		{
+			"abbr": "WEF",
+			"cz": "Nabývá účinnosti od nebo účinný od",
+			"en": "With effect from or effective from"
+		},
+		{
+			"abbr": "WGS-84",
+			"cz": "Světový geodetický systém − 1984",
+			"en": "World Geodetic System - 1984"
+		},
+		{
+			"abbr": "WI",
+			"cz": "Uvnitř, v rozmezí",
+			"en": "Within"
+		},
+		{
+			"abbr": "WID",
+			"cz": "Šířka",
+			"en": "Width"
+		},
+		{
+			"abbr": "WIE",
+			"cz": "S okamžitou platností nebo okamžitě platný",
+			"en": "With immediate effect or effective immediately"
+		},
+		{
+			"abbr": "WILCO",
+			"cz": "Bude splněno",
+			"en": "Will comply"
+		},
+		{
+			"abbr": "WINTEM",
+			"cz": "Předpověď výškového větru a teploty pro letectví",
+			"en": "Forecast upper wind and temperature for aviation"
+		},
+		{
+			"abbr": "WIP",
+			"cz": "Provádí se práce",
+			"en": "Work in progress"
+		},
+		{
+			"abbr": "WKN",
+			"cz": "Slábnout nebo slábnoucí",
+			"en": "Weaken or weakening"
+		},
+		{
+			"abbr": "WNW",
+			"cz": "Západoseverozápad",
+			"en": "West-north-west"
+		},
+		{
+			"abbr": "WO",
+			"cz": "Bez",
+			"en": "Without"
+		},
+		{
+			"abbr": "WPT",
+			"cz": "Traťový bod",
+			"en": "Way-point"
+		},
+		{
+			"abbr": "WRNG",
+			"cz": "Výstraha",
+			"en": "Warning"
+		},
+		{
+			"abbr": "WS",
+			"cz": "Střih větru",
+			"en": "Wind shear"
+		},
+		{
+			"abbr": "WSPD",
+			"cz": "Rychlost větru",
+			"en": "Wind speed"
+		},
+		{
+			"abbr": "WSW",
+			"cz": "Západojihozápad",
+			"en": "West-south-west"
+		},
+		{
+			"abbr": "WT",
+			"cz": "Hmotnost",
+			"en": "Weight"
+		},
+		{
+			"abbr": "WTSPT",
+			"cz": "Vodní smršt’",
+			"en": "Waterspout"
+		},
+		{
+			"abbr": "WX",
+			"cz": "Počasí",
+			"en": "Weather"
+		},
+		{
+			"abbr": "WXR*",
+			"cz": "Meteorologický radar",
+			"en": "Weather radar"
+		},
+		{
+			"abbr": "X",
+			"cz": "Křížit, překřížit",
+			"en": "Cross"
+		},
+		{
+			"abbr": "XBAR",
+			"cz": "Příčka (přibližovací světelné soustavy)",
+			"en": "Crossbar (of approach lighting system)"
+		},
+		{
+			"abbr": "XNG",
+			"cz": "Překřížení, křižovatka",
+			"en": "Crossing"
+		},
+		{
+			"abbr": "XS",
+			"cz": "Atmosferické poruchy",
+			"en": "Atmospheric"
+		},
+		{
+			"abbr": "Y",
+			"cz": "Žlutý",
+			"en": "Yellow"
+		},
+		{
+			"abbr": "YCZ",
+			"cz": "Žlutá výstražná zóna (osvětlení RWY)",
+			"en": "Yellow caution zone (runway lighting)"
+		},
+		{
+			"abbr": "YD*",
+			"cz": "Yardy",
+			"en": "Yards"
+		},
+		{
+			"abbr": "YR",
+			"cz": "Váš",
+			"en": "Your"
+		},
+		{
+			"abbr": "Z",
+			"cz": "Světový koordinovaný čas (v meteorologických zprávách)",
+			"en": "Coordinated Universal Time (in meteorological messages)"
+		},
+		{
+			"abbr": "ZSS*",
+			"cz": "Záchytný síťový systém",
+			"en": "Net arresting gear (NAG)"
+		},
+		{
+			"abbr": "ZLS*",
+			"cz": "Záchytný lanový systém",
+			"en": "Cable arresting gear (CAG)"
+		}
+	]
+}
