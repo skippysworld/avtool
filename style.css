@@ -62,12 +62,13 @@ input[type="search"]:focus {
 }
 
 ul {
-	max-width: 30em;
+	width: 30em;
 	margin: 0;
 	padding-left: 0;
 }
 
 li {
+	width: 100%;
 	list-style-type: none;
 	border: 2px solid;
 	padding: 2em;
@@ -81,5 +82,8 @@ p.abbrCZ {
 @media (max-width: 36rem) {
 	body {
 		font-size: 12px;
+	}
+	ul {
+		width: 100%;
 	}
 }
