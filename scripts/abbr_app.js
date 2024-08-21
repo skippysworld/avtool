@@ -4,7 +4,7 @@ const abbrResults = document.querySelector("#abbr-results");
 
 function fetchAPI() {
 	try {
-		fetch("./data/api/abbr_db.json")
+		fetch("./data/abbr_db.json")
 			.then((response) => response.json())
 			.then((data) => {
 				storedDB = data.data;
