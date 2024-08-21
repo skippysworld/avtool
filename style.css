@@ -25,13 +25,28 @@ body {
 }
 
 header {
-	width: 100%;
+	width: 32rem;
 	height: var(--header-height);
-	display: flex;
-	flex-direction: column;
-	align-items: center;
 	position: fixed;
 	background-color: var(--color-background);
+}
+
+nav {
+	margin-right: 5px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+nav > a {
+	margin-top: 3em;
+	padding: 1em;
+	text-decoration: none;
+	border: 2px solid;
+}
+
+nav > div > p {
 }
 
 main {
@@ -45,9 +60,6 @@ h2 {
 form {
 	width: 14em;
 	margin-top: 3em;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
 }
 
 input[type="search"] {
@@ -57,7 +69,6 @@ input[type="search"] {
 	font-size: 1em;
 	border: solid 2px;
 	box-shadow: 5px 5px;
-	overflow: hidden;
 	border-radius: 0;
 }
 
