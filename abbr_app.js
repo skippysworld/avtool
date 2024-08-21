@@ -29,8 +29,8 @@ const render = (query = "") => {
 			"beforeend",
 			`<li>
                 <h2 class="abbrKey">${item.abbr}</h2>
-                <p class="abbrEN">${item.en}</p>
-                <p class="abbrCZ">${item.cz}</p>
+                <p class="abbrEN">${item.en.toLowerCase()}</p>
+                <p class="abbrCZ">${item.cz.toLowerCase()}</p>
             </li>`
 		);
 	});
