@@ -92,6 +92,10 @@ li {
 	box-shadow: 3px 3px;
 }
 
+.nav-item:nth-last-of-type(1) {
+	margin-right: 0;
+}
+
 .nav-item:hover {
 	transform: scale(1.05);
 }
