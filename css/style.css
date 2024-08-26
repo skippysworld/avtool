@@ -9,6 +9,7 @@
 	--text-regular: 400;
 	--text-bold: 700;
 	--header-height: 10em;
+	--web-width: 32em;
 }
 
 html {
@@ -26,7 +27,7 @@ body {
 }
 
 header {
-	width: 32em;
+	width: var(--web-width);
 	height: var(--header-height);
 	position: fixed;
 	background-color: var(--color-background);
@@ -38,6 +39,7 @@ nav {
 }
 
 main {
+	width: var(--web-width);
 	margin-top: var(--header-height);
 }
 
@@ -65,7 +67,6 @@ h2 {
 }
 
 ul {
-	width: 32em;
 	margin: 0;
 	padding-left: 0;
 }
