@@ -113,7 +113,7 @@ li {
 
 @media (max-width: 36em) {
 	header,
-	ul {
+	main {
 		width: 100vw;
 		padding-inline: 2em;
 	}
