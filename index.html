@@ -11,7 +11,7 @@
 		<header>
 			<nav>
 				<div class="nav-container">
-					<a href="" class="nav-item nav-home nav-item-active"
+					<a href="" class="nav-item nav-metar nav-item-active"
 						><svg
 							xmlns="http://www.w3.org/2000/svg"
 							width="24"
@@ -92,17 +92,33 @@
 							<path d="M12 8h.01" /></svg
 					></a>
 				</div>
-				<form>
-					<input type="search" id="abbr-search" placeholder="search..." />
+				<form class="search-item">
+					<input
+						type="search"
+						id="search"
+						data-db="metar"
+						placeholder="search METAR..."
+					/>
 				</form>
 			</nav>
 		</header>
 		<main>
-			<section class="section-abbr section-active">
-				<ul id="abbr-results"></ul>
+			<section class="section-item section-metar">
+				<p>Test - show METAR</p>
+				<ul id="results-metar"></ul>
+			</section>
+			<section class="section-item section-freq" hidden>
+				<p>Test - show FREQ</p>
+				<ul id="result-freq"></ul>
+			</section>
+			<section class="section-item section-abbr" hidden>
+				<ul id="results-abbr"></ul>
+			</section>
+			<section class="section-item section-info" hidden>
+				<p>Test - show INFO</p>
 			</section>
 		</main>
 		<footer></footer>
 	</body>
-	<script type="text/javascript" src="./scripts/abbr.js"></script>
+	<script type="module" src="./scripts/app.js"></script>
 </html>

@@ -1,8 +1,8 @@
 let storedDB;
-const abbrSearch = document.querySelector("#abbr-search");
-const abbrResults = document.querySelector("#abbr-results");
+const search = document.querySelector("#search");
+const resultsAbbr = document.querySelector("#results-abbr");
 
-function fetchAPI() {
+export function fetchLocalAPI() {
 	try {
 		fetch("./data/abbr.json")
 			.then((response) => response.json())
@@ -23,9 +23,9 @@ const render = (query = "") => {
 		}
 	});
 
-	abbrResults.innerHTML = "";
+	resultsAbbr.innerHTML = "";
 	filtered.forEach((item) => {
-		abbrResults.insertAdjacentHTML(
+		resultsAbbr.insertAdjacentHTML(
 			"beforeend",
 			`<li>
                 <h2 class="abbrKey">${item.abbr}</h2>
@@ -36,9 +36,9 @@ const render = (query = "") => {
 	});
 };
 
-abbrSearch.addEventListener("keyup", (event) => {
+search.addEventListener("keyup", (event) => {
 	event.preventDefault();
-	render(abbrSearch.value);
+	render(search.value);
 });
 
-fetchAPI();
+fetchLocalAPI();
