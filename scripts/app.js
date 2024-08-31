@@ -1,7 +1,7 @@
-import { fetchLocalAPI } from "./localAPI.js";
+import { renderResults } from "./renderResults.js";
 
-const navItems = document.querySelectorAll(".nav-item");
 const searchItem = document.querySelector("#search");
+const navItems = document.querySelectorAll(".nav-item");
 const sectionItems = document.querySelectorAll(".section-item");
 
 const navMetar = document.querySelector(".nav-metar");
@@ -15,6 +15,8 @@ const sectionAbbr = document.querySelector(".section-abbr");
 const sectionInfo = document.querySelector(".section-info");
 
 const switchPage = (nav, search, section) => {
+	searchItem.value = "";
+
 	navItems.forEach((item) => {
 		item.classList.remove("nav-item-active");
 	});
@@ -29,10 +31,10 @@ const switchPage = (nav, search, section) => {
 	if (search != "hidden") {
 		searchItem.hidden = false;
 		searchItem.setAttribute("data-db", search);
-		searchItem.setAttribute("placeholder", `search ${search}...`);
 	} else {
 		searchItem.hidden = true;
 	}
+	renderResults();
 };
 
 navItems.forEach((item) => {
@@ -51,4 +53,9 @@ navItems.forEach((item) => {
 			switchPage(navInfo, "hidden", sectionInfo);
 		}
 	});
+});
+
+searchItem.addEventListener("keyup", (event) => {
+	event.preventDefault();
+	renderResults(searchItem.value);
 });
