@@ -107,11 +107,27 @@ li {
 	box-shadow: 3px 3px var(--color-blue);
 }
 
-.abbrCZ {
+.sidenote {
 	color: var(--color-grey);
 }
 
+.under-construction {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border: 2px dotted var(--color-grey);
+	opacity: 0.5;
+}
+
 @media (max-width: 36em) {
+	:root {
+		--header-height: 7em;
+	}
+
+	nav {
+		margin-top: 2em;
+	}
+
 	header,
 	main {
 		width: 100vw;
@@ -119,6 +135,24 @@ li {
 	}
 
 	form {
-		margin-inline: 1em 3px;
+		margin-inline: 1em 2px;
+	}
+
+	input[type="search"] {
+		box-shadow: 2px 2px;
+	}
+
+	.nav-item {
+		padding: 0.75em;
+		box-shadow: 2px 2px;
+	}
+
+	.nav-item-active {
+		box-shadow: 2px 2px;
+	}
+
+	.nav-item > svg {
+		width: 20px;
+		height: 20px;
 	}
 }

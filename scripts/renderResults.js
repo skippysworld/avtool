@@ -21,9 +21,9 @@ export const renderResults = (query = "") => {
 			resultsFREQ.insertAdjacentHTML(
 				"beforeend",
 				`<li>
-					<h2 class="abbrKey">${item.icao}</h2>
-					<p class="abbrEN">${item.freq.toLowerCase()}</p>
-					<p class="abbrCZ">${item.callsign.toLowerCase()}</p>
+					<h2>${item.icao}</h2>
+					<p>${item.freq.toLowerCase()}</p>
+					<p class="sidenote">${item.callsign.toLowerCase()}</p>
 				</li>`
 			);
 		});
@@ -40,9 +40,9 @@ export const renderResults = (query = "") => {
 			resultsABBR.insertAdjacentHTML(
 				"beforeend",
 				`<li>
-				<h2 class="abbrKey">${item.abbr}</h2>
-				<p class="abbrEN">${item.en.toLowerCase()}</p>
-				<p class="abbrCZ">${item.cz.toLowerCase()}</p>
+				<h2>${item.abbr}</h2>
+				<p>${item.en.toLowerCase()}</p>
+				<p class="sidenote">${item.cz.toLowerCase()}</p>
 			</li>`
 			);
 		});
