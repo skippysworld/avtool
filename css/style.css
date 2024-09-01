@@ -121,7 +121,7 @@ li {
 
 @media (max-width: 36em) {
 	:root {
-		--header-height: 7.5em;
+		--header-height: 7.25em;
 	}
 
 	nav {
