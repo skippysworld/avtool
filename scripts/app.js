@@ -1,6 +1,6 @@
 import { renderResults } from "./renderResults.js";
 
-const searchItem = document.querySelector("#search");
+const search = document.querySelector("#search");
 const navItems = document.querySelectorAll(".nav-item");
 const sectionItems = document.querySelectorAll(".section-item");
 
@@ -14,13 +14,12 @@ const sectionFreq = document.querySelector(".section-freq");
 const sectionAbbr = document.querySelector(".section-abbr");
 const sectionInfo = document.querySelector(".section-info");
 
-const switchPage = (nav, search, section) => {
-	searchItem.value = "";
+const switchPage = (nav, searchDB, section) => {
+	search.value = "";
 
 	navItems.forEach((item) => {
 		item.classList.remove("nav-item-active");
 	});
-
 	sectionItems.forEach((item) => {
 		item.setAttribute("hidden", "true");
 	});
@@ -28,11 +27,11 @@ const switchPage = (nav, search, section) => {
 	nav.classList.add("nav-item-active");
 	section.hidden = false;
 
-	if (search != "hidden") {
-		searchItem.hidden = false;
-		searchItem.setAttribute("data-db", search);
+	if (searchDB == "hidden" || searchDB == "metar") {
+		search.hidden = true;
 	} else {
-		searchItem.hidden = true;
+		search.hidden = false;
+		search.setAttribute("data-db", searchDB);
 	}
 	renderResults();
 };
@@ -55,7 +54,7 @@ navItems.forEach((item) => {
 	});
 });
 
-searchItem.addEventListener("keyup", (event) => {
+search.addEventListener("keyup", (event) => {
 	event.preventDefault();
-	renderResults(searchItem.value);
+	renderResults(search.value);
 });
