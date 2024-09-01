@@ -1,8 +1,6 @@
 import { storedDatabaseFREQ, storedDatabaseABBR } from "./fetchLocalData.js";
-import { storedDatabaseMETAR, storedDatabaseTAF } from "./fetchAPI.js";
 
 const searchItem = document.querySelector("#search");
-const resultsMETAR = document.querySelector("#results-metar");
 const resultsFREQ = document.querySelector("#results-freq");
 const resultsABBR = document.querySelector("#results-abbr");
 
@@ -48,15 +46,4 @@ export const renderResults = (query = "") => {
 			);
 		});
 	}
-};
-
-export const renderWeather = () => {
-	resultsMETAR.insertAdjacentHTML(
-		"beforeend",
-		`<li>
-			<h2>LKPR</h2>
-			<p>${storedDatabaseMETAR}</p>
-			<p class="sidenote">${storedDatabaseTAF}</p>
-		</li>`
-	);
 };

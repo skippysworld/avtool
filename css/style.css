@@ -105,6 +105,7 @@ li {
 	color: var(--color-blue);
 	border-color: var(--color-blue);
 	box-shadow: 3px 3px var(--color-blue);
+	transform: scale(1.05);
 }
 
 .sidenote {

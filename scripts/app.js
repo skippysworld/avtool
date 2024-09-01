@@ -1,4 +1,4 @@
-import { renderResults, renderWeather } from "./renderResults.js";
+import { renderResults } from "./renderResults.js";
 
 const searchItem = document.querySelector("#search");
 const navItems = document.querySelectorAll(".nav-item");
@@ -59,5 +59,3 @@ searchItem.addEventListener("keyup", (event) => {
 	event.preventDefault();
 	renderResults(searchItem.value);
 });
-
-renderWeather();

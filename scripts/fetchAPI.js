@@ -1,36 +1,28 @@
-export let storedDatabaseMETAR;
-export let storedDatabaseTAF;
+import { requestOptions } from "./auth.js";
+
+const renderedMETAR = document.querySelector("#rendered-metar");
+const renderedTAF = document.querySelector("#rendered-taf");
 
 function fetchMETAR() {
-	try {
-		fetch("https://aviationweather.gov/api/data/metar?ids=LKPR&format=raw", {
-			headers: {
-				accept: "*/*",
-			},
+	fetch("https://api.checkwx.com/metar/LKPR", requestOptions)
+		.then((response) => response.json())
+		.then((data) => {
+			renderedMETAR.innerHTML = data.data[0];
 		})
-			.then((response) => console.log(response) /* response.json()*/)
-			.then((data) => {
-				storedDatabaseMETAR = data;
-			});
-	} catch (error) {
-		console.error(error.message);
-	}
+		.catch((error) => {
+			console.log(error);
+		});
 }
 
 function fetchTAF() {
-	try {
-		fetch("https://aviationweather.gov/api/data/taf?ids=LKPR&format=raw", {
-			headers: {
-				accept: "*/*",
-			},
+	fetch("https://api.checkwx.com/taf/LKPR", requestOptions)
+		.then((response) => response.json())
+		.then((data) => {
+			renderedTAF.innerHTML = data.data[0];
 		})
-			.then((response) => console.log(response) /* response.json()*/)
-			.then((data) => {
-				storedDatabaseTAF = data;
-			});
-	} catch (error) {
-		console.error(error.message);
-	}
+		.catch((error) => {
+			console.log(error);
+		});
 }
 
 fetchMETAR();
