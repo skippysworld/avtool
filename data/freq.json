@@ -1,16 +1,16 @@
 {
 	"data": [
 		{
-			"icao": "LKPM",
-			"ap": "Pribram",
-			"freq": "118.755",
-			"callsign": "Pribram Radio"
-		},
-		{
 			"icao": "LKBE",
 			"ap": "Benesov",
 			"freq": "118.005",
 			"callsign": "Bene Radio"
+		},
+		{
+			"icao": "LKPM",
+			"ap": "Pribram",
+			"freq": "118.755",
+			"callsign": "Pribram Radio"
 		}
 	]
 }
