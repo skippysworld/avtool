@@ -120,6 +120,10 @@ li {
 	opacity: 0.5;
 }
 
+.under-construction > p {
+	text-align: center;
+}
+
 @media (max-width: 36em) {
 	:root {
 		--header-height: 7.25em;
