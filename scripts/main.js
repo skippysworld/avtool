@@ -1,4 +1,4 @@
-import { renderResults } from "./renderResults.js";
+import { renderResults } from "./renderFreqAbbr.js";
 
 const search = document.querySelector("#search");
 const navItems = document.querySelectorAll(".nav-item");

@@ -1,13 +1,13 @@
-import { storedDatabaseFREQ, storedDatabaseABBR } from "./fetchLocalData.js";
+import { storedDatabaseFREQ, storedDatabaseABBR } from "./fetchFreqAbbr.js";
 
-const searchItem = document.querySelector("#search");
+const search = document.querySelector("#search");
 const resultsFREQ = document.querySelector("#results-freq");
 const resultsABBR = document.querySelector("#results-abbr");
 
 export const renderResults = (query = "") => {
 	const cleanQuery = query.toLowerCase().trim();
 
-	if (searchItem.getAttribute("data-db") == "freq") {
+	if (search.getAttribute("data-db") == "freq") {
 		const filtered = storedDatabaseFREQ.filter((item) => {
 			if (item.icao.toLowerCase().includes(cleanQuery)) {
 				return item;
@@ -26,7 +26,7 @@ export const renderResults = (query = "") => {
 				</li>`
 			);
 		});
-	} else if (searchItem.getAttribute("data-db") == "abbr") {
+	} else if (search.getAttribute("data-db") == "abbr") {
 		const filtered = storedDatabaseABBR.filter((item) => {
 			if (item.abbr.toLowerCase().includes(cleanQuery)) {
 				return item;
