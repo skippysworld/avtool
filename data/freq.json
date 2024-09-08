@@ -2,15 +2,864 @@
 	"data": [
 		{
 			"icao": "LKBE",
-			"ap": "Benesov",
-			"freq": "118.005",
-			"callsign": "Bene Radio"
+			"ap": "Benešov",
+			"freq": "118,005",
+			"callsign": "Bene RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKBO",
+			"ap": "Bohuňovice",
+			"freq": "118,280",
+			"callsign": "Bohuňovice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKTB",
+			"ap": "Brno - Tuřany",
+			"freq": "131,105",
+			"callsign": "Tuřany ATIS",
+			"note": "ATIS"
+		},
+		{
+			"icao": "LKTB",
+			"ap": "Brno - Tuřany",
+			"freq": "119,605",
+			"callsign": "Tuřany VĚŽ/TOWER",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKTB",
+			"ap": "Brno - Tuřany",
+			"freq": "127,350",
+			"callsign": "PRAHA RADAR",
+			"note": "APP"
+		},
+		{
+			"icao": "LKTB",
+			"ap": "Brno - Tuřany",
+			"freq": "125,430",
+			"callsign": "Tuřany GROUND",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKBR",
+			"ap": "Broumov",
+			"freq": "123,490",
+			"callsign": "Broumov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKBA",
+			"ap": "Břeclav",
+			"freq": "119,655",
+			"callsign": "Břeclav RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKBU",
+			"ap": "Bubovice",
+			"freq": "134,305",
+			"callsign": "Bubovice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKCV",
+			"ap": "Čáslav",
+			"freq": "134,205",
+			"callsign": "Čáslav VĚŽ/TOWER",
+			"note": "MTWR"
+		},
+		{
+			"icao": "LKCV",
+			"ap": "Čáslav",
+			"freq": "130,280",
+			"callsign": "Čáslav RADAR",
+			"note": "MAPP"
+		},
+		{
+			"icao": "LKCE",
+			"ap": "Česká Lípa",
+			"freq": "122,140",
+			"callsign": "Lípa RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKCS",
+			"ap": "České Budějovice",
+			"freq": "135,930",
+			"callsign": "Budějovice INFORMATION",
+			"note": "AFIS"
+		},
+		{
+			"icao": "LKDK",
+			"ap": "Dvůr Králové",
+			"freq": "119,610",
+			"callsign": "Dvůr RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKER",
+			"ap": "Erpužice",
+			"freq": "123,490",
+			"callsign": "Erpužice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKFR",
+			"ap": "Frýdlant",
+			"freq": "123,490",
+			"callsign": "Frýdlant RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKHB",
+			"ap": "Havlíčkův Brod",
+			"freq": "128,905",
+			"callsign": "Brod RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKHD",
+			"ap": "Hodkovice",
+			"freq": "120,905",
+			"callsign": "Hodkovice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKHC",
+			"ap": "Hořice",
+			"freq": "120,315",
+			"callsign": "Hořice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKHV",
+			"ap": "Hořovice",
+			"freq": "135,580",
+			"callsign": "Hořovice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKHS",
+			"ap": "Hosín",
+			"freq": "130,205",
+			"callsign": "Hosín RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKHK",
+			"ap": "Hradec Králové",
+			"freq": "122,005",
+			"callsign": "Kral RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKHN",
+			"ap": "Hranice",
+			"freq": "123,510",
+			"callsign": "Hranice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKCB",
+			"ap": "Cheb",
+			"freq": "120,610",
+			"callsign": "Cheb RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKCH",
+			"ap": "Chomutov",
+			"freq": "123,605",
+			"callsign": "Chomutov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKCT",
+			"ap": "Chotěboř",
+			"freq": "120,110",
+			"callsign": "Chotěboř RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKCR",
+			"ap": "Chrudim",
+			"freq": "122,805",
+			"callsign": "Chrudim RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKJA",
+			"ap": "Jaroměř",
+			"freq": "119,105",
+			"callsign": "Jaroměř RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKJC",
+			"ap": "Jičín",
+			"freq": "118,080",
+			"callsign": "Jičín RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKJI",
+			"ap": "Jihlava",
+			"freq": "123,490",
+			"callsign": "Jihlava RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKJH",
+			"ap": "Jindřichův Hradec",
+			"freq": "123,605",
+			"callsign": "Hradec RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKKV",
+			"ap": "Karlovy Vary",
+			"freq": "127,640",
+			"callsign": "Karlovy Vary ATIS",
+			"note": "ATIS"
+		},
+		{
+			"icao": "LKKV",
+			"ap": "Karlovy Vary",
+			"freq": "121,230",
+			"callsign": "Vary VĚŽ/TOWER",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKKV",
+			"ap": "Karlovy Vary",
+			"freq": "118,650",
+			"callsign": "PRAHA RADAR",
+			"note": "APP"
+		},
+		{
+			"icao": "LKKB",
+			"ap": "Kbely",
+			"freq": "120,880",
+			"callsign": "Kbely Věž/TOWER",
+			"note": "MTWR"
+		},
+		{
+			"icao": "LKKB",
+			"ap": "Kbely",
+			"freq": "124,680",
+			"callsign": "Kbely RADAR",
+			"note": "MAPP"
+		},
+		{
+			"icao": "LKKL",
+			"ap": "Kladno",
+			"freq": "123,480",
+			"callsign": "Kladno RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKKT",
+			"ap": "Klatovy",
+			"freq": "122,210",
+			"callsign": "Klatovy RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKKO",
+			"ap": "Kolín",
+			"freq": "129,155",
+			"callsign": "Kolín RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKKR",
+			"ap": "Krnov",
+			"freq": "122,610",
+			"callsign": "Krnov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKKM",
+			"ap": "Kroměříž",
+			"freq": "122,205",
+			"callsign": "Kroměříž RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKKA",
+			"ap": "Křižanov",
+			"freq": "133,155",
+			"callsign": "Křižanov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKKU",
+			"ap": "Kunovice",
+			"freq": "120,105",
+			"callsign": "Kunovice INFORMATION",
+			"note": "AFIS"
+		},
+		{
+			"icao": "LKKU",
+			"ap": "Kunovice",
+			"freq": "120,105",
+			"callsign": "Kunovice VĚŽ/TOWER",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKKY",
+			"ap": "Kyjov",
+			"freq": "130,610",
+			"callsign": "Kyjov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKPL",
+			"ap": "Letkov",
+			"freq": "130,610",
+			"callsign": "Letkov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKLT",
+			"ap": "Letňany",
+			"freq": "120,335",
+			"callsign": "Letňany RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKLB",
+			"ap": "Liberec",
+			"freq": "122,605",
+			"callsign": "Liberec RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKLU",
+			"ap": "Luhačovice",
+			"freq": "125,285",
+			"callsign": "Luhačovice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKMR",
+			"ap": "Mariánské Lázně",
+			"freq": "120,900",
+			"callsign": "Mariánské Lázně RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKCM",
+			"ap": "Medlánky",
+			"freq": "122,405",
+			"callsign": "Medlánky RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKMI",
+			"ap": "Mikulovice",
+			"freq": "123,510",
+			"callsign": "Jeseník RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKMB",
+			"ap": "Mladá Boleslav",
+			"freq": "123,610",
+			"callsign": "Boleslav RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKMH",
+			"ap": "Mnichovo Hradiště",
+			"freq": "120,405",
+			"callsign": "Hradiště RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKMK",
+			"ap": "Moravská Třebová",
+			"freq": "130,540",
+			"callsign": "Třebová RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKMO",
+			"ap": "Most",
+			"freq": "118,760",
+			"callsign": "Most RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKNA",
+			"ap": "Náměšť",
+			"freq": "126,505",
+			"callsign": "Náměšť VĚŽ/TOWER",
+			"note": "MTWR"
+		},
+		{
+			"icao": "LKNA",
+			"ap": "Náměšť",
+			"freq": "118,155",
+			"callsign": "Náměšť RADAR",
+			"note": "MAPP"
+		},
+		{
+			"icao": "LKNM",
+			"ap": "Nové Město",
+			"freq": "123,405",
+			"callsign": "Město RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKOL",
+			"ap": "Olomouc",
+			"freq": "118,005",
+			"callsign": "Olomouc RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKMT",
+			"ap": "OSTRAVA/Mošnov",
+			"freq": "118,055",
+			"callsign": "Mošnov ATIS",
+			"note": "ATIS"
+		},
+		{
+			"icao": "LKMT",
+			"ap": "OSTRAVA/Mošnov",
+			"freq": "120,805",
+			"callsign": "Mošnov VĚŽ/TOWER",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKMT",
+			"ap": "OSTRAVA/Mošnov",
+			"freq": "128,525",
+			"callsign": "Mošnov DELIVERY",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKMT",
+			"ap": "OSTRAVA/Mošnov",
+			"freq": "119,375",
+			"callsign": "PRAHA RADAR",
+			"note": "APP"
+		},
+		{
+			"icao": "LKPC",
+			"ap": "Panenský Týnec",
+			"freq": "118,580",
+			"callsign": "Týnec RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKPD",
+			"ap": "Pardubice",
+			"freq": "120,155",
+			"callsign": "Pardubice VĚŽ/TOWER",
+			"note": "MTWR"
+		},
+		{
+			"icao": "LKPD",
+			"ap": "Pardubice",
+			"freq": "128,365",
+			"callsign": "Pardubice RADAR",
+			"note": "MAPP"
+		},
+		{
+			"icao": "LKPD",
+			"ap": "Pardubice",
+			"freq": "296,825",
+			"callsign": "Pardubice PŘESNÝ/PRECISION",
+			"note": "PAR"
+		},
+		{
+			"icao": "LKPS",
+			"ap": "Plasy",
+			"freq": "123,590",
+			"callsign": "Plasy RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKLN",
+			"ap": "Plzeň/Líně",
+			"freq": "129,005",
+			"callsign": "Líně RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKPN",
+			"ap": "Podhořany",
+			"freq": "123,590",
+			"callsign": "Podhořany RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKPA",
+			"ap": "Polička",
+			"freq": "122,590",
+			"callsign": "Polička RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKPR",
+			"ap": "PRAHA/Ruzyně",
+			"freq": "122,160",
+			"callsign": "Ruzyně ATIS",
+			"note": "ATIS"
+		},
+		{
+			"icao": "LKPR",
+			"ap": "PRAHA/Ruzyně",
+			"freq": "118,310",
+			"callsign": "Ruzyně RADAR/INFORMATION",
+			"note": "APP"
+		},
+		{
+			"icao": "LKPR",
+			"ap": "PRAHA/Ruzyně",
+			"freq": "119,010",
+			"callsign": "Ruzyně RADAR/APPROACH",
+			"note": "APP"
+		},
+		{
+			"icao": "LKPR",
+			"ap": "PRAHA/Ruzyně",
+			"freq": "134,560",
+			"callsign": "Ruzyně TOWER",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKPR",
+			"ap": "PRAHA/Ruzyně",
+			"freq": "121,910",
+			"callsign": "Ruzyně GROUND",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKPR",
+			"ap": "PRAHA/Ruzyně",
+			"freq": "120,060",
+			"callsign": "Ruzyně DELIVERY",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKPR",
+			"ap": "PRAHA/Ruzyně",
+			"freq": "120,530",
+			"callsign": "Praha RADAR/APPROACH",
+			"note": "APP"
+		},
+		{
+			"icao": "LKPR",
+			"ap": "PRAHA/Ruzyně",
+			"freq": "127,580",
+			"callsign": "Praha RADAR/APPROACH",
+			"note": "APP"
+		},
+		{
+			"icao": "LKVO",
+			"ap": "PRAHA/Vodochody",
+			"freq": "123,030",
+			"callsign": "Vodochody RADIM",
+			"note": "RADIM"
+		},
+		{
+			"icao": "LKVO",
+			"ap": "PRAHA/Vodochody",
+			"freq": "133,080",
+			"callsign": "Vodochody VĚŽ/TOWER",
+			"note": "TWR"
+		},
+		{
+			"icao": "LKVO",
+			"ap": "PRAHA/Vodochody",
+			"freq": "127,480",
+			"callsign": "Vodochody RADAR",
+			"note": "APP"
+		},
+		{
+			"icao": "LKPJ",
+			"ap": "Prostějov",
+			"freq": "126,905",
+			"callsign": "Prostějov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKPO",
+			"ap": "Přerov",
+			"freq": "127,780",
+			"callsign": "PŘEROV RADIO",
+			"note": "RADIO"
 		},
 		{
 			"icao": "LKPM",
-			"ap": "Pribram",
-			"freq": "118.755",
-			"callsign": "Pribram Radio"
+			"ap": "Příbram",
+			"freq": "118,755",
+			"callsign": "Příbram RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKPI",
+			"ap": "Přibyslav",
+			"freq": "125,610",
+			"callsign": "Přibyslav RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKRK",
+			"ap": "Rakovník",
+			"freq": "123,510",
+			"callsign": "Rakovník RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKRA",
+			"ap": "Raná",
+			"freq": "126,855",
+			"callsign": "Raná RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKRY",
+			"ap": "Rokycany",
+			"freq": "119,660",
+			"callsign": "Rokycany RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKRO",
+			"ap": "Roudnice",
+			"freq": "122,205",
+			"callsign": "Roudnice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKSZ",
+			"ap": "Sazená",
+			"freq": "119,640",
+			"callsign": "Sazená RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKSK",
+			"ap": "Skuteč",
+			"freq": "123,510",
+			"callsign": "Skuteč RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKSN",
+			"ap": "Slaný",
+			"freq": "122,405",
+			"callsign": "Slaný RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKSO",
+			"ap": "Soběslav",
+			"freq": "122,190",
+			"callsign": "Soběslav RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKSA",
+			"ap": "Staňkov",
+			"freq": "123,610",
+			"callsign": "Staňkov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKSB",
+			"ap": "Stichovice",
+			"freq": "120,680",
+			"callsign": "Stichovice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKST",
+			"ap": "Strakonice",
+			"freq": "118,760",
+			"callsign": "Strakonice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKSR",
+			"ap": "Strunkovice",
+			"freq": "123,505",
+			"callsign": "Strunkovice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKSU",
+			"ap": "Šumperk",
+			"freq": "122,605",
+			"callsign": "Šumperk RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKTA",
+			"ap": "Tábor",
+			"freq": "122,610",
+			"callsign": "Tábor RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKTD",
+			"ap": "Tachov",
+			"freq": "123,405",
+			"callsign": "Tachov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKTC",
+			"ap": "Točná",
+			"freq": "123,410",
+			"callsign": "Točná RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKTO",
+			"ap": "Toužim",
+			"freq": "120,190",
+			"callsign": "Toužim RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKUL",
+			"ap": "Ústí nad Labem",
+			"freq": "123,405",
+			"callsign": "Ústí nad Labem RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKUO",
+			"ap": "Ústí nad Orlicí",
+			"freq": "122,210",
+			"callsign": "Ústí RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKVP",
+			"ap": "Velké Poříčí",
+			"freq": "122,190",
+			"callsign": "Hronov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKVL",
+			"ap": "Vlašim",
+			"freq": "119,655",
+			"callsign": "Vlašim RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKVR",
+			"ap": "Vrchlabí",
+			"freq": "125,330",
+			"callsign": "Vrchlabí RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKVM",
+			"ap": "Vysoké Mýto",
+			"freq": "130,605",
+			"callsign": "Mýto RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKVY",
+			"ap": "Vyškov",
+			"freq": "120,330",
+			"callsign": "Vyškov RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKZA",
+			"ap": "Zábřeh",
+			"freq": "123,605",
+			"callsign": "Zábřeh RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKZB",
+			"ap": "Zbraslavice",
+			"freq": "126,630",
+			"callsign": "Zbraslavice RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKZL",
+			"ap": "Zlín",
+			"freq": "118,755",
+			"callsign": "Zlín RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKZN",
+			"ap": "Znojmo",
+			"freq": "130,590",
+			"callsign": "Znojmo RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "LKZM",
+			"ap": "Žamberk",
+			"freq": "122,610",
+			"callsign": "Žamberk RADIO",
+			"note": "RADIO"
+		},
+		{
+			"icao": "FIC",
+			"ap": "",
+			"freq": "126,100",
+			"callsign": "Praha INFORMATION",
+			"note": "SECTOR ČECHY WEST"
+		},
+		{
+			"icao": "FIC",
+			"ap": "",
+			"freq": "136,175",
+			"callsign": "Praha INFORMATION",
+			"note": "SECTOR ČECHY EAST"
+		},
+		{
+			"icao": "FIC",
+			"ap": "",
+			"freq": "136,275",
+			"callsign": "Praha INFORMATION",
+			"note": "SECTOR MORAVA"
+		},
+		{
+			"icao": "VOLMET",
+			"ap": "",
+			"freq": "125,525",
+			"callsign": "Praha VOLMET",
+			"note": "PRAHA Ruzyně, BRNO Tuřany, OSTRAVA Mošnov, Karlovy Vary, Pardubice, Kunovice, České Budějovice, WIEN, DRESDEN, MUNCHEN, BRATISLAVA Ivanka"
+		},
+		{
+			"icao": "ACC",
+			"ap": "",
+			"freq": "120,275",
+			"callsign": "Praha RADAR",
+			"note": "SECTOR WL"
+		},
+		{
+			"icao": "ACC",
+			"ap": "",
+			"freq": "127,125",
+			"callsign": "Praha RADAR",
+			"note": "SECTOR SL"
+		},
+		{
+			"icao": "ACC",
+			"ap": "",
+			"freq": "127,825",
+			"callsign": "Praha RADAR",
+			"note": "SECTOR NL"
 		}
 	]
 }

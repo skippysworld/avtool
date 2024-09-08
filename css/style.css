@@ -108,7 +108,26 @@ li {
 	transform: scale(1.05);
 }
 
-.sidenote {
+.li-row {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.li-title,
+.li-title-aside {
+	margin: 0;
+	color: var(--color-blue);
+}
+
+.li-title-aside {
+	font-size: 1.5rem;
+	font-weight: 700;
+	line-height: 1.1;
+}
+
+.li-sidenote {
 	color: var(--color-grey);
 }
 

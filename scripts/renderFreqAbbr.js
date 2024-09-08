@@ -17,14 +17,31 @@ export const renderResults = (query = "") => {
 		resultsFREQ.innerHTML = "";
 
 		filtered.forEach((item) => {
-			resultsFREQ.insertAdjacentHTML(
-				"beforeend",
-				`<li>
-					<h2>${item.icao}</h2>
-					<p>${item.freq.toLowerCase()}</p>
-					<p class="sidenote">${item.callsign.toLowerCase()}</p>
-				</li>`
-			);
+			if (item.icao.includes("LK")) {
+				resultsFREQ.insertAdjacentHTML(
+					"beforeend",
+					`<li>
+						<div class="li-row">
+							<h2 class="li-title">${item.icao}</h2>
+							<p class="li-title-aside">${item.freq}</p>
+						</div>
+						<p class="li-main">${item.callsign}</p>
+						<p class="li-sidenote">Type: ${item.note}</p>
+					</li>`
+				);
+			} else {
+				resultsFREQ.insertAdjacentHTML(
+					"beforeend",
+					`<li>
+						<div class="li-row">
+							<h2 class="li-title">${item.icao}</h2>
+							<p class="li-title-aside">${item.freq}</p>
+						</div>
+						<p class="li-main">${item.callsign}</p>
+						<p class="li-sidenote">${item.note}</p>
+					</li>`
+				);
+			}
 		});
 	} else if (search.getAttribute("data-db") == "abbr") {
 		const filtered = storedDatabaseABBR.filter((item) => {
@@ -39,10 +56,13 @@ export const renderResults = (query = "") => {
 			resultsABBR.insertAdjacentHTML(
 				"beforeend",
 				`<li>
-				<h2>${item.abbr}</h2>
-				<p>${item.en.toLowerCase()}</p>
-				<p class="sidenote">${item.cz.toLowerCase()}</p>
-			</li>`
+					<div class="li-row">
+						<h2 class="li-title">${item.abbr}</h2>
+						<p class="li-title-aside"></p>
+					</div>
+					<p class="li-main">${item.en}</p>
+					<p class="li-sidenote">${item.cz}</p>
+				</li>`
 			);
 		});
 	}
