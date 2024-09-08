@@ -25,7 +25,7 @@ export const renderResults = (query = "") => {
 							<h2 class="li-title">${item.icao}</h2>
 							<p class="li-title-aside">${item.freq}</p>
 						</div>
-						<p class="li-main">${item.callsign}</p>
+						<p class="li-main">Callsign: ${item.callsign}</p>
 						<p class="li-sidenote">Type: ${item.note}</p>
 					</li>`
 				);
@@ -37,7 +37,7 @@ export const renderResults = (query = "") => {
 							<h2 class="li-title">${item.icao}</h2>
 							<p class="li-title-aside">${item.freq}</p>
 						</div>
-						<p class="li-main">${item.callsign}</p>
+						<p class="li-main">Callsign: ${item.callsign}</p>
 						<p class="li-sidenote">${item.note}</p>
 					</li>`
 				);
