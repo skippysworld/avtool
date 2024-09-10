@@ -25,16 +25,15 @@ export const renderResults = (query = "") => {
 							<h2>${item.icao}</h2>
 							<p>${item.freq}</p>
 						</div>
-						<div class="li-content">
-							<div class="li-content-main">
-								<h3>callsign</h3>
-								<p>${item.callsign}</p>
-							</div>
-							<div class="li-content-aside">
-								<h3>type</h3>
-								<p>${item.note}</p>
-							</div>
+						<div class="li-heading">
+							<h3>callsign</h3>
+							<h3>type</h3>
 						</div>
+						<div class="li-content">
+							<p>${item.callsign}</p>
+							<p>${item.note}</p>
+						</div>
+						
 					</li>`
 				);
 			} else {
@@ -45,16 +44,15 @@ export const renderResults = (query = "") => {
 							<h2>${item.icao}</h2>
 							<p>${item.freq}</p>
 						</div>
-						<div class="li-content">
-							<div class="li-content-main">
-								<h3>callsign</h3>
-								<p>${item.callsign}</p>
-							</div>
-							<div class="li-content-aside">
-								<h3></h3>
-								<p>${item.note}</p>
-							</div>
+						<div class="li-heading">
+							<h3>callsign</h3>
 						</div>
+						<p>${item.callsign}</p>
+						<div class="li-heading">
+							<h3>sector</h3>
+						</div>
+						<p>${item.note}</p>
+						
 					</li>`
 				);
 			}
