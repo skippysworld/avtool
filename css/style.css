@@ -31,6 +31,7 @@ header {
 	height: var(--header-height);
 	position: fixed;
 	background-color: var(--color-background);
+	z-index: 10;
 }
 
 nav {
