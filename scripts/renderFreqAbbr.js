@@ -47,11 +47,11 @@ export const renderResults = (query = "") => {
 						<div class="li-heading">
 							<h3>callsign</h3>
 						</div>
-						<p>${item.callsign}</p>
+						<p>${item.callsign.toUpperCase()}</p>
 						<div class="li-heading">
 							<h3>sector</h3>
 						</div>
-						<p>${item.note}</p>
+						<p>${item.note.toUpperCase()}</p>
 						
 					</li>`
 				);
