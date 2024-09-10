@@ -21,24 +21,40 @@ export const renderResults = (query = "") => {
 				resultsFREQ.insertAdjacentHTML(
 					"beforeend",
 					`<li>
-						<div class="li-row">
-							<h2 class="li-title">${item.icao}</h2>
-							<p class="li-title-aside">${item.freq}</p>
+						<div class="li-title">
+							<h2>${item.icao}</h2>
+							<p>${item.freq}</p>
 						</div>
-						<p class="li-main">Callsign: ${item.callsign}</p>
-						<p class="li-sidenote">Type: ${item.note}</p>
+						<div class="li-content">
+							<div class="li-content-main">
+								<h3>callsign</h3>
+								<p>${item.callsign}</p>
+							</div>
+							<div class="li-content-aside">
+								<h3>type</h3>
+								<p>${item.note}</p>
+							</div>
+						</div>
 					</li>`
 				);
 			} else {
 				resultsFREQ.insertAdjacentHTML(
 					"beforeend",
 					`<li>
-						<div class="li-row">
-							<h2 class="li-title">${item.icao}</h2>
-							<p class="li-title-aside">${item.freq}</p>
+						<div class="li-title">
+							<h2>${item.icao}</h2>
+							<p>${item.freq}</p>
 						</div>
-						<p class="li-main">Callsign: ${item.callsign}</p>
-						<p class="li-sidenote">${item.note}</p>
+						<div class="li-content">
+							<div class="li-content-main">
+								<h3>callsign</h3>
+								<p>${item.callsign}</p>
+							</div>
+							<div class="li-content-aside">
+								<h3></h3>
+								<p>${item.note}</p>
+							</div>
+						</div>
 					</li>`
 				);
 			}
@@ -56,11 +72,11 @@ export const renderResults = (query = "") => {
 			resultsABBR.insertAdjacentHTML(
 				"beforeend",
 				`<li>
-					<div class="li-row">
-						<h2 class="li-title">${item.abbr}</h2>
-						<p class="li-title-aside"></p>
+					<div class="li-title">
+						<h2>${item.abbr}</h2>
+						<p></p>
 					</div>
-					<p class="li-main">${item.en}</p>
+					<p>${item.en}</p>
 					<p class="li-sidenote">${item.cz}</p>
 				</li>`
 			);
