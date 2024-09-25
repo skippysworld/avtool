@@ -23,57 +23,60 @@ const decodeParam = encodeParam.toLowerCase().split(" ");
 const type = decodeParam[0];
 const station = decodeParam[1];
 
-async function fetch() {
+async function fetchData() {
 	const fetchUrl = `https://aviationweather.gov/api/data/metar?ids=${station}&format=geojson&taf=true`;
 
 	const req = new Request(fetchUrl);
 	return await req.loadJSON();
 }
 
-async function fetchBadge() {
-	const fetchUrl = `https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/21/1e/13/211e13de-2e74-4221-f7db-d6d2c53b4323/AppIcon-1x_U007emarketing-0-7-0-85-220.png/540x540sr.jpg`;
+const apiData = await fetchData();
+const metar = apiData.features[1].properties.rawOb;
+const taf = apiData.features[1].properties.rawTaf;
+const category = apiData.features[1].properties.fltcat;
 
-	let req = new Request(fetchUrl);
-	return req.loadImage();
+async function fetchImage() {
+	const fetchUrl = `https://skippysworld.github.io/avtool/scriptable/${category}.png`;
+
+	const req = new Request(fetchUrl);
+	return await req.loadImage();
 }
 
-const api = await fetch();
-const metar = api.features[1].properties.rawOb;
-const taf = api.features[1].properties.rawTaf;
-const badge = api.features[1].properties.fltcat;
-const widgetSize = config.widgetFamily;
+const apiImage = await fetchImage();
 
 async function createWidget() {
 	let widget = new ListWidget();
+	widget.setPadding(25, 25, 25, 25);
 
 	let gradient = new LinearGradient();
 	gradient.locations = [0, 1];
 	gradient.colors = [new Color("141414"), new Color("323232")];
 	widget.backgroundGradient = gradient;
 
-	let stack = widget.addStack();
-	stack.addImage(SFSymbol.named("airplane").image).imageSize = new Size(15, 15);
+	let stackTop = widget.addStack();
+	stackTop.addImage(SFSymbol.named("airplane").image).imageSize = new Size(
+		15,
+		15
+	);
 
-	stack.addSpacer(10);
+	stackTop.addSpacer(10);
 
 	let title;
 
 	if (type === "metar" || type === "taf" || type === "both") {
-		title = stack.addText(type.toUpperCase());
+		title = stackTop.addText(type.toUpperCase());
 	} else {
-		title = stack.addText(`Wrong "type"!`);
+		title = stackTop.addText(`Fetch Aviation Weather`);
 	}
 
-	stack.addSpacer();
+	stackTop.addSpacer();
 
-	let badgeImage;
+	let badge;
 
 	if (type === "metar" || type === "both") {
-		badgeImage = stack.addText(badge);
-	} else if (type === "taf") {
-		badgeImage = "";
+		badge = stackTop.addImage(apiImage);
 	} else {
-		badgeImage = stack.addText(`Wrong "type"!`);
+		badge = "";
 	}
 
 	widget.addSpacer();
@@ -87,21 +90,35 @@ async function createWidget() {
 	} else if (type === "both") {
 		body = widget.addText("METAR + TAF is not available yet.");
 	} else {
-		body = widget.addText(`Wrong "type"!`);
+		body = widget.addText(
+			`Widget parameter has not been provided or has wrong format. Check widget settings.`
+		);
 	}
 
 	widget.addSpacer();
+
+	let stackBottom = widget.addStack();
+
+	stackBottom.addSpacer();
+
+	let source = stackBottom.addText("Data source: AWC (NOAA)");
 
 	title.textColor = Color.white();
 	title.textOpacity = 0.7;
 	title.font = Font.mediumSystemFont(13);
 
-	badgeImage.textColor = new Color("39FF14", 0.7);
-	badgeImage.font = Font.boldSystemFont(13);
+	badge.imageSize = new Size(37.5, 15);
+	badge.cornerRadius = 5;
+	badge.textColor = new Color("39FF14", 0.7);
+	badge.font = Font.boldSystemFont(13);
 
 	body.minimumScaleFactor = 0.5;
 	body.textColor = Color.white();
 	body.font = Font.systemFont(12);
+
+	source.textColor = Color.white();
+	source.textOpacity = 0.2;
+	source.font = Font.systemFont(8);
 
 	return widget;
 }
