@@ -3,7 +3,7 @@ const renderedTAF = document.querySelector("#rendered-taf");
 
 function fetchMETAR() {
 	fetch(
-		"https://my-cors-ro38.onrender.com/https://aviationweather.gov/api/data/metar?ids=LKPR&format=raw&format=geojson&taf=true"
+		"https://rdmvggvcpe.eu-west-1.awsapprunner.com/https://aviationweather.gov/api/data/metar?ids=LKPR&format=raw&format=geojson&taf=true"
 	)
 		.then((response) => response.json())
 		.then((data) => {
@@ -16,7 +16,7 @@ function fetchMETAR() {
 
 function fetchTAF() {
 	fetch(
-		"https://my-cors-ro38.onrender.com/https://aviationweather.gov/api/data/metar?ids=LKPR&format=raw&format=geojson&taf=true"
+		"https://rdmvggvcpe.eu-west-1.awsapprunner.com/https://aviationweather.gov/api/data/metar?ids=LKPR&format=raw&format=geojson&taf=true"
 	)
 		.then((response) => response.json())
 		.then((data) => {
