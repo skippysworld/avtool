@@ -21,7 +21,7 @@ function fetchTAF() {
 		.then((response) => response.json())
 		.then((data) => {
 			const regex = /\b(FM|BECMG|TEMPO|PROB.0|RMK)\b/gi;
-			const data = data.features[1].properties.rawTaf;
+			const dataResult = data.features[1].properties.rawTaf;
 			const splitTaf = data.split(regex);
 			const introTaf = splitTaf[0];
 			const restTaf = splitTaf.slice(1);
