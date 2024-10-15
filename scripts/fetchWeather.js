@@ -20,7 +20,21 @@ function fetchTAF() {
 	)
 		.then((response) => response.json())
 		.then((data) => {
-			renderedTAF.innerHTML = data.features[1].properties.rawTaf;
+			const regex = /\b(FM|BECMG|TEMPO|PROB.0|RMK)\b/gi;
+			const data = data.features[1].properties.rawTaf;
+			const splitTaf = data.split(regex);
+			const introTaf = splitTaf[0];
+			const restTaf = splitTaf.slice(1);
+			let resultTaf = "";
+
+			for (const part of restTaf) {
+				if (part.match(regex)) {
+					resultTaf += `\n${part}`;
+				} else {
+					resultTaf += part;
+				}
+			}
+			renderedTAF.innerHTML = introTaf + "\n" + resultTaf;
 		})
 		.catch((error) => {
 			console.log(error);
